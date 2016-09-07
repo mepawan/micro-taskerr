@@ -1,0 +1,39 @@
+/*
+Custom admin styles
+*/
+
+.appearance_page_custom-header #headimg {
+	border: none;
+	font-family: 'Lato', sans-serif;
+	background: #378ad8;
+	padding: 30px;
+	text-align: right;
+	width: auto;
+}
+#headimg h1,
+#headimg h2 {
+	line-height: 1.84615;
+	margin: 0;
+	padding: 0;
+}
+#headimg h1 {
+	font-size: 24px;
+	font-family: 'Noto', sans-serif;
+	float:left;
+}
+#headimg h1 a {
+	text-decoration: none;
+}
+#headimg h1 a:hover {
+	color: #fff !important; /* Has to override custom inline style. */
+}
+#headimg h2 {
+	font-size: 20px;
+	font-family: 'Lato', sans-serif;
+	margin-bottom: 24px;
+
+}
+#headimg img {
+	float: left;
+	clear: both;
+}

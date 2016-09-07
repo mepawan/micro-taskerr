@@ -1,0 +1,5208 @@
+# Copyright (C) 2016 AppThemes
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Taskerr 1.3.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-01-06 11:31:30+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: AppThemes\n"
+"Language-Team: AppThemes\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_nx:1,2;_x:1,2c;_ex:1,2c;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:1,2,3c\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:18
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:23
+msgid ""
+"The page or listing you are trying to reach no longer exists or has expired."
+msgstr ""
+
+#: author.php:64 theme-framework/kernel/social.php:104
+msgid "Facebook"
+msgstr ""
+
+#: author.php:72 theme-framework/kernel/social.php:108
+msgid "Twitter"
+msgstr ""
+
+#: author.php:80 sidebar-dashboard.php:126
+msgid "Website"
+msgstr ""
+
+#: author.php:99 content-dashboard-service.php:31
+#: email-content-new_review.php:50 form-review.php:18 includes/sorting.php:260
+#: includes/sorting.php:605 sidebar-dashboard.php:70
+#: sidebar-single-service.php:38
+msgid "Rating"
+msgstr ""
+
+#: author.php:102 sidebar-dashboard.php:90
+msgid "Reviews received"
+msgstr ""
+
+#: author.php:105 sidebar-single-service.php:34 single-service.php:60
+#: single-service.php:62
+msgid "Tasks Completed"
+msgstr ""
+
+#: comment.php:18 content-recent-posts.php:66 loop-reviews.php:27
+msgid "on"
+msgstr ""
+
+#: comment.php:21
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: comment.php:30
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: comment.php:38 content-dashboard-service.php:92 form-password-reset.php:106
+#: form-registration.php:125 form.php:61 page-full.php:38 page.php:37
+#: theme-framework/kernel/breadcrumb-trail.php:1134
+#: theme-framework/kernel/breadcrumb-trail.php:1170
+#: theme-framework/kernel/breadcrumb-trail.php:1187
+#: theme-framework/kernel/breadcrumb-trail.php:1218
+msgid "Edit"
+msgstr ""
+
+#: comments.php:12
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: comments.php:31
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:38 comments.php:63
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:39 comments.php:64
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:76
+msgid "Comments are closed."
+msgstr ""
+
+#: content-dashboard-purchased.php:18 content-dashboard-tasks.php:18
+#: email-entry-task.php:30 task-summary.php:27
+msgid "Task #"
+msgstr ""
+
+#: content-dashboard-purchased.php:20 content-dashboard-tasks.php:20
+#: form-task.php:19 includes/payments/admin/order-list.php:28
+#: task-summary.php:31
+msgid "Item"
+msgstr ""
+
+#: content-dashboard-purchased.php:32 content-dashboard-tasks.php:32
+#: task-summary.php:39
+msgid "Purchased on"
+msgstr ""
+
+#: content-dashboard-purchased.php:37 email-entry-task.php:54
+msgid "Service Provider"
+msgstr ""
+
+#: content-dashboard-purchased.php:57
+msgid "Your message to provider"
+msgstr ""
+
+#: content-dashboard-purchased.php:70
+msgid "Your rating"
+msgstr ""
+
+#: content-dashboard-purchased.php:81
+msgid "Your review on"
+msgstr ""
+
+#: content-dashboard-purchased.php:96
+msgid "No review yet "
+msgstr ""
+
+#: content-dashboard-purchased.php:98
+msgid "review it now"
+msgstr ""
+
+#: content-dashboard-service.php:20
+msgid "Pending Tasks"
+msgstr ""
+
+#: content-dashboard-service.php:24
+msgid "Completed Tasks"
+msgstr ""
+
+#: content-dashboard-service.php:41 single-service.php:39
+msgid "One Review"
+msgid_plural "%s Reviews"
+msgstr[0] ""
+msgstr[1] ""
+
+#: content-dashboard-service.php:45
+msgid "View reviews"
+msgstr ""
+
+#: content-dashboard-service.php:75 content-service.php:63 content.php:51
+#: includes/admin/addons-mp/addons-mp-class.php:606
+msgid "Category:"
+msgstr ""
+
+#: content-dashboard-service.php:82 content-service.php:70 content.php:58
+msgid "Tags:"
+msgstr ""
+
+#: content-dashboard-service.php:96
+msgid "Renew"
+msgstr ""
+
+#: content-dashboard-service.php:100
+#: framework/includes/ajax/class-ajax-view-delete-post.php:83
+msgid "Delete"
+msgstr ""
+
+#: content-dashboard-tasks.php:37 includes/sorting.php:435
+msgid "Buyer"
+msgstr ""
+
+#: content-dashboard-tasks.php:57
+msgid "Message from buyer"
+msgstr ""
+
+#: content-dashboard-tasks.php:70
+msgid "Buyer's rating"
+msgstr ""
+
+#: content-dashboard-tasks.php:83
+msgid "Buyer's review on"
+msgstr ""
+
+#: content-recent-posts.php:59
+#: includes/widgets/templates/content-recent-posts.php:46
+msgid "Read More"
+msgstr ""
+
+#: content-recent-posts.php:63 content-service.php:52 content.php:46
+msgid "by"
+msgstr ""
+
+#: content-service.php:20 content.php:20 single-service.php:33 single.php:33
+msgid "Featured"
+msgstr ""
+
+#: content-service.php:57
+msgid "Rating:"
+msgstr ""
+
+#: content-transaction-checkout.php:15 includes/checkout/class-checkout.php:299
+msgid "Continue"
+msgstr ""
+
+#: content-transaction-summary.php:13
+msgid "Your order has been completed."
+msgstr ""
+
+#: content-transaction-summary.php:35
+#: includes/payments/gateways/paypal/paypal-form.php:64
+msgid "Continue to %s"
+msgstr ""
+
+#: email-content-new_review.php:29 email-content-new_service_admin.php:27
+#: email-content-new_service_author.php:29
+#: email-content-service_approval.php:29 email-content-service_expired.php:29
+#: email-content-service_renewed_admin.php:27
+#: email-content-service_renewed_author.php:29
+#: email-content-task_action_buyer.php:31
+#: email-content-task_action_provider.php:30 email-content.php:31
+msgid "Hello"
+msgstr ""
+
+#: email-content-new_review.php:38
+msgid "Your Review has been successfully submitted."
+msgstr ""
+
+#: email-content-new_review.php:51
+msgid "Review Link"
+msgstr ""
+
+#: email-content-new_service_admin.php:39
+msgid "A new service is awaiting moderation."
+msgstr ""
+
+#: email-content-new_service_admin.php:42
+msgid "A new service was published."
+msgstr ""
+
+#: email-content-new_service_admin.php:57
+#: email-content-new_service_author.php:62
+#: email-content-service_renewed_admin.php:47
+#: email-content-service_renewed_author.php:59
+msgid "Order Summary:"
+msgstr ""
+
+#: email-content-new_service_admin.php:66
+#: email-content-new_service_author.php:97
+#: email-content-service_renewed_admin.php:56
+#: email-content-service_renewed_author.php:94 includes/views-review.php:40
+msgid "Review Service"
+msgstr ""
+
+#: email-content-new_service_admin.php:69
+#: email-content-new_service_author.php:100
+#: email-content-service_renewed_admin.php:59
+#: email-content-service_renewed_author.php:97 includes/core.php:24
+#: includes/template-tags.php:704
+msgid "Edit Service"
+msgstr ""
+
+#: email-content-new_service_admin.php:75
+msgid "Review all pending services"
+msgstr ""
+
+#: email-content-new_service_admin.php:80
+#: email-content-service_renewed_admin.php:62
+msgid "Review all published services"
+msgstr ""
+
+#: email-content-new_service_author.php:41
+msgid ""
+"Your service is awaiting moderation. You'll be notified once it is approved."
+msgstr ""
+
+#: email-content-new_service_author.php:44
+#: email-content-service_renewed_author.php:41
+msgid ""
+"Your service was successfully published. It is now live and publicly visible "
+"on our site."
+msgstr ""
+
+#: email-content-new_service_author.php:47
+#: email-content-service_renewed_author.php:44
+msgid "Your service was submitted!"
+msgstr ""
+
+#: email-content-new_service_author.php:69
+#: email-content-service_renewed_author.php:66
+#: includes/payments/gateways/bank-transfer/template/order-bank-transfer.php:29
+msgid "Order ID:"
+msgstr ""
+
+#: email-content-new_service_author.php:70
+#: email-content-service_renewed_author.php:67
+msgid "Status:"
+msgstr ""
+
+#: email-content-new_service_author.php:75
+#: email-content-service_renewed_author.php:72
+msgid "Payment Instrunctions:"
+msgstr ""
+
+#: email-content-new_service_author.php:78
+#: email-content-service_renewed_author.php:75
+msgid "The Order is awaiting payment."
+msgstr ""
+
+#: email-content-new_service_author.php:79
+#: email-content-service_renewed_author.php:76
+msgid "Follow instructions to complete payment."
+msgstr ""
+
+#: email-content-service_approval.php:38
+msgid "Your service listing has been approved and is now live!"
+msgstr ""
+
+#: email-content-service_approval.php:45 email-content-service_expired.php:45
+#: email-content-task_action_buyer.php:93
+#: email-content-task_action_provider.php:88 includes/core.php:26
+msgid "View Service"
+msgstr ""
+
+#: email-content-service_expired.php:38
+msgid "Your service listing has expired and is no longer publicly visible."
+msgstr ""
+
+#: email-content-service_expired.php:48
+msgid "Relist Service"
+msgstr ""
+
+#: email-content-service_renewed_admin.php:36
+msgid "Renewed service was published."
+msgstr ""
+
+#: email-content-task_action_buyer.php:44
+msgid "Your task was successfully submitted."
+msgstr ""
+
+#: email-content-task_action_buyer.php:48
+msgid "Service Provider marked your task as \"Paid\"."
+msgstr ""
+
+#: email-content-task_action_buyer.php:50
+msgid "You'll be notified once it is completed."
+msgstr ""
+
+#: email-content-task_action_buyer.php:54
+msgid "Service Provider marked your task as \"Unpaid\"."
+msgstr ""
+
+#: email-content-task_action_buyer.php:56
+#: email-content-task_action_buyer.php:68
+msgid "Contact Provider to resolve this problem."
+msgstr ""
+
+#: email-content-task_action_buyer.php:60
+msgid "Service Provider marked your task as \"Completed\"."
+msgstr ""
+
+#: email-content-task_action_buyer.php:62
+msgid ""
+"If you agree that it has been completed, please mark it as \"Confirmed.\""
+msgstr ""
+
+#: email-content-task_action_buyer.php:66
+msgid "Service Provider marked your task as \"Uncompleted\"."
+msgstr ""
+
+#: email-content-task_action_buyer.php:72
+msgid "You have marked your task as \"Confirmed\"."
+msgstr ""
+
+#: email-content-task_action_buyer.php:76
+msgid "You have marked your task as \"Unconfirmed\"."
+msgstr ""
+
+#: email-content-task_action_buyer.php:90
+#: email-content-task_action_provider.php:85
+msgid "View Task on your Dashboard"
+msgstr ""
+
+#: email-content-task_action_provider.php:43
+msgid "You've got a new task."
+msgstr ""
+
+#: email-content-task_action_provider.php:47
+msgid "You have marked task as \"Paid\"."
+msgstr ""
+
+#: email-content-task_action_provider.php:51
+msgid "You have marked task as \"Unpaid\"."
+msgstr ""
+
+#: email-content-task_action_provider.php:55
+msgid "You have marked task as \"Completed\"."
+msgstr ""
+
+#: email-content-task_action_provider.php:57
+msgid "Expect the customer's confirmation"
+msgstr ""
+
+#: email-content-task_action_provider.php:61
+msgid "You have marked task as \"Uncompleted\"."
+msgstr ""
+
+#: email-content-task_action_provider.php:65
+msgid "Buyer confirmed the completion of the task."
+msgstr ""
+
+#: email-content-task_action_provider.php:69
+msgid "Buyer marked task as \"Unconfirmed\"."
+msgstr ""
+
+#: email-content-task_action_provider.php:71
+msgid "Contact Buyer to resolve this problem."
+msgstr ""
+
+#: email-entry-service.php:49 includes/payments/admin/order-list.php:27
+msgid "Author"
+msgstr ""
+
+#: email-entry-service.php:57
+msgid "Email"
+msgstr ""
+
+#: email-entry-service.php:67 form-service.php:27 form-task.php:27
+#: includes/admin/featured.php:53 includes/payments/admin/order-list.php:29
+#: includes/payments/admin/order-meta.php:151
+#: includes/payments/admin/order-single.php:64 includes/plans/admin.php:46
+#: includes/sorting.php:268 task-summary.php:43
+msgid "Price"
+msgstr ""
+
+#: email-entry-service.php:75
+msgid "Delivery"
+msgstr ""
+
+#: email-entry-service.php:83 form-service.php:47 includes/core.php:79
+#: single-service.php:79 single-service.php:81 single.php:46 single.php:48
+msgid "Categories"
+msgstr ""
+
+#: email-entry-service.php:91 form-service.php:41 includes/core.php:113
+#: single-service.php:86 single-service.php:88 single.php:53 single.php:55
+msgid "Tags"
+msgstr ""
+
+#: email-entry-task.php:24
+msgid "Task Summary:"
+msgstr ""
+
+#: email-entry-task.php:38
+msgid "Task Status"
+msgstr ""
+
+#: email-entry-task.php:46 includes/payments/admin/order-list.php:30
+#: includes/payments/admin/order-meta.php:153 includes/sorting.php:252
+#: includes/sorting.php:427 includes/sorting.php:465 includes/sorting.php:590
+#: loop-dashboard-notifications.php:15
+msgid "Date"
+msgstr ""
+
+#: email-entry-task.php:62
+msgid "Service Buyer"
+msgstr ""
+
+#: email-entry-task.php:72
+msgid "Task Instructions:"
+msgstr ""
+
+#: email-entry-task.php:79
+msgid "Contacts:"
+msgstr ""
+
+#: email-footer.php:32
+msgid "Unsubscribe"
+msgstr ""
+
+#: email-signature.php:22
+msgid "Thanks,"
+msgstr ""
+
+#: email-signature.php:23
+msgid "The %s team"
+msgstr ""
+
+#: email-signature.php:38
+msgid "Connect with Us:"
+msgstr ""
+
+#: email-signature.php:69
+msgid "Contact Info:"
+msgstr ""
+
+#: email-signature.php:73
+msgid "Phone:"
+msgstr ""
+
+#: email-signature.php:80 form-edit-profile.php:41 form-registration.php:64
+#: form-task.php:43 theme-framework/templates/form-registration.php:15
+msgid "Email:"
+msgstr ""
+
+#: email-signature.php:87
+msgid "Skype:"
+msgstr ""
+
+#: footer.php:25
+msgid "Powered by"
+msgstr ""
+
+#: form-edit-profile.php:23 form-registration.php:57
+#: theme-framework/templates/form-login.php:7
+#: theme-framework/templates/form-registration.php:8
+msgid "Username:"
+msgstr ""
+
+#: form-edit-profile.php:29
+msgid "Nickname:"
+msgstr ""
+
+#: form-edit-profile.php:35
+msgid "Display Name:"
+msgstr ""
+
+#: form-edit-profile.php:55
+msgid "Website:"
+msgstr ""
+
+#: form-edit-profile.php:61
+msgid "About Me:"
+msgstr ""
+
+#: form-edit-profile.php:70
+msgid "Change Password"
+msgstr ""
+
+#: form-edit-profile.php:76
+msgid "New Password:"
+msgstr ""
+
+#: form-edit-profile.php:78
+msgid "Leave this field blank unless you would like to change your password."
+msgstr ""
+
+#: form-edit-profile.php:83 form-registration.php:80
+#: theme-framework/templates/form-registration.php:29
+msgid "Password Again:"
+msgstr ""
+
+#: form-edit-profile.php:85
+msgid "Type your new password again."
+msgstr ""
+
+#: form-edit-profile.php:90 form-edit-profile.php:121
+#: form-password-reset.php:90 form-registration.php:108
+#: theme-framework/templates/form-password-reset.php:18
+#: theme-framework/templates/form-registration.php:35
+msgid "Strength indicator"
+msgstr ""
+
+#: form-edit-profile.php:92 form-edit-profile.php:123
+#: form-password-reset.php:91 form-registration.php:109
+#: theme-framework/templates/form-password-reset.php:19
+#: theme-framework/templates/form-registration.php:36
+msgid ""
+"Hint: The password should be at least seven characters long. To make it "
+"stronger, use upper and lower case letters, numbers and symbols like ! \" ? "
+"$ % ^ &amp; )."
+msgstr ""
+
+#: form-edit-profile.php:99 form-password-reset.php:72
+msgid "New Password"
+msgstr ""
+
+#: form-edit-profile.php:100
+msgid "Generate Password"
+msgstr ""
+
+#: form-edit-profile.php:110 form-password-reset.php:80
+#: form-registration.php:98
+msgid "Hide password"
+msgstr ""
+
+#: form-edit-profile.php:112 form-password-reset.php:82
+#: form-registration.php:100
+msgid "Hide"
+msgstr ""
+
+#: form-edit-profile.php:114
+msgid "Cancel password change"
+msgstr ""
+
+#: form-edit-profile.php:115
+msgid "Cancel"
+msgstr ""
+
+#: form-edit-profile.php:132
+msgid "Update Profile"
+msgstr ""
+
+#: form-password-reset.php:51
+#: theme-framework/templates/form-password-reset.php:2
+msgid "Enter your new password below."
+msgstr ""
+
+#: form-password-reset.php:59
+#: theme-framework/templates/form-password-reset.php:8
+msgid "New password"
+msgstr ""
+
+#: form-password-reset.php:64
+#: theme-framework/templates/form-password-reset.php:13
+msgid "Confirm new password"
+msgstr ""
+
+#: form-password-reset.php:95
+#: theme-framework/templates/form-password-recovery.php:17
+#: theme-framework/templates/form-password-reset.php:23
+msgid "Reset Password"
+msgstr ""
+
+#: form-registration.php:52 theme-framework/templates/form-registration.php:3
+msgid "Complete the fields below to register."
+msgstr ""
+
+#: form-registration.php:73 form-registration.php:89
+#: theme-framework/templates/form-login.php:14
+#: theme-framework/templates/form-registration.php:22
+msgid "Password:"
+msgstr ""
+
+#. #-#-#-#-#  taskerr.pot (Taskerr 1.3.1)  #-#-#-#-#
+#. Template Name of the plugin/theme
+#: form-registration.php:116 framework/kernel/functions.php:335
+#: theme-framework/includes/views-login.php:461
+#: theme-framework/templates/form-registration.php:43 top-bar.php:85
+#: top-bar.php:87
+msgid "Register"
+msgstr ""
+
+#: form-review.php:19 form-review.php:24
+msgid "required"
+msgstr ""
+
+#: form-review.php:23
+msgid "Review"
+msgstr ""
+
+#: form-service.php:15
+msgid "Title"
+msgstr ""
+
+#: form-service.php:21 includes/admin/service-single.php:49
+msgid "Days until Delivery"
+msgstr ""
+
+#: form-service.php:33
+msgid "Service Description"
+msgstr ""
+
+#: form-task.php:15
+msgid "You are about the order the following service:"
+msgstr ""
+
+#: form-task.php:23 task-summary.php:35
+msgid "Seller"
+msgstr ""
+
+#: form-task.php:32 single-service.php:56 task-summary.php:48
+msgid "Will deliver in"
+msgstr ""
+
+#: form-task.php:37 task-summary.php:53
+msgid "Your message to the seller"
+msgstr ""
+
+#: form-task.php:42
+msgid "Your contact information (email used by default)"
+msgstr ""
+
+#: form.php:44
+msgid "User registration has been disabled."
+msgstr ""
+
+#: framework/admin/class-dashboard.php:59
+msgid "AppThemes Dashboard"
+msgstr ""
+
+#: framework/admin/class-dashboard.php:61 includes/views.php:666 top-bar.php:62
+#: top-bar.php:64
+msgid "Dashboard"
+msgstr ""
+
+#: framework/admin/class-dashboard.php:70
+msgid "News"
+msgstr ""
+
+#: framework/admin/class-dashboard.php:73
+msgid "Marketplace"
+msgstr ""
+
+#: framework/admin/class-dashboard.php:77
+msgid "Tutorials"
+msgstr ""
+
+#: framework/admin/class-dashboard.php:88
+msgid "Snapshot"
+msgstr ""
+
+#: framework/admin/class-dashboard.php:93
+#: framework/admin/class-dashboard.php:246
+msgid "Forums"
+msgstr ""
+
+#: framework/admin/class-dashboard.php:185
+msgid "New Registrations"
+msgstr ""
+
+#: framework/admin/class-dashboard.php:187 framework/js/localization.php:40
+msgid "Today"
+msgstr ""
+
+#: framework/admin/class-dashboard.php:189
+#: framework/admin/class-dashboard.php:195
+msgid "Customers"
+msgstr ""
+
+#: framework/admin/class-dashboard.php:193
+msgid "Yesterday"
+msgstr ""
+
+#: framework/admin/class-dashboard.php:224
+msgid "Total Users"
+msgstr ""
+
+#: framework/admin/class-dashboard.php:232
+msgid "Last 7 Days"
+msgstr ""
+
+#: framework/admin/class-dashboard.php:233
+msgid "Overall"
+msgstr ""
+
+#: framework/admin/class-dashboard.php:241
+msgid "Installed Apps"
+msgstr ""
+
+#: framework/admin/class-dashboard.php:246
+#: framework/admin/class-dashboard.php:247
+msgid "Support"
+msgstr ""
+
+#: framework/admin/class-dashboard.php:247
+msgid "Docs"
+msgstr ""
+
+#: framework/admin/class-meta-box.php:72
+#: framework/admin/class-tabs-page.php:155
+msgid "Click for more info"
+msgstr ""
+
+#: framework/admin/class-settings.php:14 framework/admin/class-settings.php:15
+#: framework/scb/AdminPage.php:519 includes/admin/settings.php:21
+#: includes/payments/admin/settings.php:18
+#: includes/payments/escrow/admin/settings.php:54
+msgid "Settings"
+msgstr ""
+
+#: framework/admin/class-system-info.php:19
+#: framework/admin/class-system-info.php:20
+#: framework/admin/class-system-info.php:82
+msgid "System Info"
+msgstr ""
+
+#: framework/admin/class-system-info.php:83
+#: framework/admin/class-system-info.php:387
+msgid "Cron Jobs"
+msgstr ""
+
+#: framework/admin/class-system-info.php:93
+msgid "Theme Info"
+msgstr ""
+
+#: framework/admin/class-system-info.php:96
+msgid "Theme Name"
+msgstr ""
+
+#: framework/admin/class-system-info.php:105
+msgid "Theme Version"
+msgstr ""
+
+#: framework/admin/class-system-info.php:118
+msgid "WordPress Info"
+msgstr ""
+
+#: framework/admin/class-system-info.php:121
+msgid "Home URL"
+msgstr ""
+
+#: framework/admin/class-system-info.php:130
+msgid "Site URL"
+msgstr ""
+
+#: framework/admin/class-system-info.php:139
+msgid "Theme Path"
+msgstr ""
+
+#: framework/admin/class-system-info.php:148
+msgid "WP Version"
+msgstr ""
+
+#: framework/admin/class-system-info.php:154
+msgid "Multisite"
+msgstr ""
+
+#: framework/admin/class-system-info.php:157
+msgid "WP Memory Limit"
+msgstr ""
+
+#: framework/admin/class-system-info.php:166
+msgid "WP Max Upload Size"
+msgstr ""
+
+#: framework/admin/class-system-info.php:175
+msgid "WP Debug Mode"
+msgstr ""
+
+#: framework/admin/class-system-info.php:181
+#: framework/admin/class-system-info.php:190
+#: framework/admin/class-system-info.php:199
+#: framework/admin/class-system-info.php:278
+#: framework/admin/class-system-info.php:287
+#: framework/admin/class-system-info.php:303
+#: framework/admin/class-system-info.php:328
+#: framework/admin/class-system-info.php:337
+#: framework/admin/class-system-info.php:346
+#: framework/admin/class-system-info.php:355 includes/admin/featured.php:79
+#: includes/admin/service-single.php:241 includes/admin/settings.php:62
+#: includes/admin/settings.php:152 includes/admin/settings.php:159
+#: includes/admin/settings.php:213 includes/admin/settings.php:221
+#: includes/admin/settings.php:237 includes/payments/admin/settings.php:116
+#: includes/payments/escrow/admin/settings.php:58
+#: includes/reviews/admin/settings.php:51
+msgid "Yes"
+msgstr ""
+
+#: framework/admin/class-system-info.php:181
+#: framework/admin/class-system-info.php:190
+#: framework/admin/class-system-info.php:199
+#: framework/admin/class-system-info.php:278
+#: framework/admin/class-system-info.php:287
+#: framework/admin/class-system-info.php:303
+#: framework/admin/class-system-info.php:328
+#: framework/admin/class-system-info.php:337
+#: framework/admin/class-system-info.php:346
+#: framework/admin/class-system-info.php:355
+msgid "No"
+msgstr ""
+
+#: framework/admin/class-system-info.php:184
+msgid "Force SSL Admin"
+msgstr ""
+
+#: framework/admin/class-system-info.php:193
+msgid "Child Theme"
+msgstr ""
+
+#: framework/admin/class-system-info.php:206
+msgid "Server Info"
+msgstr ""
+
+#: framework/admin/class-system-info.php:209
+msgid "Server Software"
+msgstr ""
+
+#: framework/admin/class-system-info.php:218
+msgid "PHP Version"
+msgstr ""
+
+#: framework/admin/class-system-info.php:224
+msgid "Function phpversion() is not available."
+msgstr ""
+
+#: framework/admin/class-system-info.php:227
+msgid "MySQL Version"
+msgstr ""
+
+#: framework/admin/class-system-info.php:236
+msgid "PHP Post Max Size"
+msgstr ""
+
+#: framework/admin/class-system-info.php:242
+#: framework/admin/class-system-info.php:251
+#: framework/admin/class-system-info.php:260
+#: framework/admin/class-system-info.php:269
+#: framework/admin/class-system-info.php:278
+msgid "Function ini_get() is not available."
+msgstr ""
+
+#: framework/admin/class-system-info.php:245
+msgid "PHP Max Input Vars"
+msgstr ""
+
+#: framework/admin/class-system-info.php:254
+msgid "PHP Time Limit"
+msgstr ""
+
+#: framework/admin/class-system-info.php:263
+msgid "Upload Max Filesize"
+msgstr ""
+
+#: framework/admin/class-system-info.php:272
+msgid "Display Errors"
+msgstr ""
+
+#: framework/admin/class-system-info.php:281
+msgid "SUHOSIN Installed"
+msgstr ""
+
+#: framework/admin/class-system-info.php:294
+msgid "Image Support"
+msgstr ""
+
+#: framework/admin/class-system-info.php:297
+msgid "GD Library Installed"
+msgstr ""
+
+#: framework/admin/class-system-info.php:306
+msgid "Image Upload Path"
+msgstr ""
+
+#: framework/admin/class-system-info.php:319
+msgid "Other Checks"
+msgstr ""
+
+#: framework/admin/class-system-info.php:322
+msgid "JSON Decode"
+msgstr ""
+
+#: framework/admin/class-system-info.php:331
+msgid "cURL Enabled"
+msgstr ""
+
+#: framework/admin/class-system-info.php:340
+msgid "fsockopen Enabled"
+msgstr ""
+
+#: framework/admin/class-system-info.php:349
+msgid "OpenSSL Enabled"
+msgstr ""
+
+#: framework/admin/class-system-info.php:358
+msgid "WP Remote Post"
+msgstr ""
+
+#: framework/admin/class-system-info.php:364
+msgid "wp_remote_post() test was successful."
+msgstr ""
+
+#: framework/admin/class-system-info.php:364
+msgid "wp_remote_post() test failed."
+msgstr ""
+
+#: framework/admin/class-system-info.php:371
+#: includes/admin/addons-mp/addons-mp-class.php:732
+#: includes/admin/addons-mp/addons-mp-class.php:779
+msgid "Plugins"
+msgstr ""
+
+#: framework/admin/class-system-info.php:374
+msgid "Installed Plugins"
+msgstr ""
+
+#: framework/admin/class-system-info.php:402
+msgid "Download Report"
+msgstr ""
+
+#: framework/admin/class-system-info.php:468
+msgid "One-off event"
+msgstr ""
+
+#: framework/admin/class-system-info.php:493
+msgid "You haven&#39;t created any cron job tasks yet."
+msgstr ""
+
+#: framework/admin/class-system-info.php:499
+msgid "Hook Name"
+msgstr ""
+
+#: framework/admin/class-system-info.php:500
+msgid "Frequency"
+msgstr ""
+
+#: framework/admin/class-system-info.php:501
+msgid "Next Run Date"
+msgstr ""
+
+#: framework/admin/class-tabs-page.php:134
+#: includes/payments/escrow/escrow-settings-form-class.php:58
+msgid "Save Changes"
+msgstr ""
+
+#: framework/admin/class-user-meta-box.php:296
+msgid "ERROR"
+msgstr ""
+
+#: framework/admin/class-widget.php:216 framework/p2p-core/widget.php:37
+#: includes/widgets/widget-125-ads.php:82
+#: includes/widgets/widget-breadcrumbs.php:61
+#: includes/widgets/widget-facebook.php:102
+#: includes/widgets/widget-recent-posts.php:98
+#: includes/widgets/widget-social-connect.php:84
+#: includes/widgets/widget-taxonomy-list.php:75
+msgid "Title:"
+msgstr ""
+
+#: framework/admin/class-widget.php:230
+msgid "Sidebar ID can not be checked before the widget ID is set."
+msgstr ""
+
+#: framework/admin/importer.php:81
+msgid "CSV Importer"
+msgstr ""
+
+#: framework/admin/importer.php:82
+msgid "Importer"
+msgstr ""
+
+#: framework/admin/importer.php:107
+msgid ""
+"Howdy! Upload a CSV file containing your data and we'll import it into this "
+"site. The file must be in the correct format for the import to work."
+msgstr ""
+
+#: framework/admin/importer.php:118
+msgid ""
+"Before you can upload your import file, you will need to fix the following "
+"error:"
+msgstr ""
+
+#: framework/admin/importer.php:131
+msgid "Select a File"
+msgstr ""
+
+#: framework/admin/importer.php:137
+msgid "(Maximum size: %s)"
+msgstr ""
+
+#: framework/admin/importer.php:148
+msgid "Upload file and import"
+msgstr ""
+
+#: framework/admin/importer.php:160
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: framework/admin/importer.php:172
+msgid "The file could not be processed."
+msgstr ""
+
+#: framework/admin/importer.php:174
+msgid "Imported %s items."
+msgstr ""
+
+#: framework/includes/ajax/class-ajax-view-delete-post.php:24
+msgctxt "listing"
+msgid "Deleted"
+msgstr ""
+
+#: framework/includes/ajax/class-ajax-view-delete-post.php:29
+#: includes/service-status.php:36
+msgid "Deleted <span class=\"count\">(%s)</span>"
+msgid_plural "Deleted <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/includes/ajax/class-ajax-view-delete-post.php:46
+msgid "You do not have permission to delete that listing."
+msgstr ""
+
+#: framework/includes/ajax/class-ajax-view-delete-post.php:56
+msgid "Deleted listing '%s'."
+msgstr ""
+
+#: framework/includes/ajax/class-ajax-view-favorites.php:93
+#: includes/favorites.php:149
+msgid "Favorite"
+msgstr ""
+
+#: framework/includes/ajax/class-ajax-view-favorites.php:97
+#: includes/favorites.php:162
+msgid "Delete Favorite"
+msgstr ""
+
+#: framework/includes/ajax/class-ajax-view-favorites.php:110
+#: includes/favorites.php:47
+msgid "You must <a href=\"%1$s\">login</a> to be able to favorite listings."
+msgstr ""
+
+#: framework/includes/ajax/class-ajax-view-favorites.php:122
+#: includes/favorites.php:59
+msgid "Added '%s' to your favorites."
+msgstr ""
+
+#: framework/includes/ajax/class-ajax-view-favorites.php:126
+#: includes/favorites.php:65
+msgid "Removed '%s' from your favorites."
+msgstr ""
+
+#: framework/includes/ajax/class-ajax-view-favorites.php:132
+#: includes/favorites.php:72
+msgid "Could not add '%s' to favorites at this time."
+msgstr ""
+
+#: framework/includes/ajax/class-ajax-view.php:195 order-select.php:16
+msgid "Submit"
+msgstr ""
+
+#: framework/js/localization.php:13
+msgid "This field is required."
+msgstr ""
+
+#: framework/js/localization.php:14
+msgid "Please fix this field."
+msgstr ""
+
+#: framework/js/localization.php:15
+msgid "Please enter a valid email address."
+msgstr ""
+
+#: framework/js/localization.php:16
+msgid "Please enter a valid URL."
+msgstr ""
+
+#: framework/js/localization.php:17
+msgid "Please enter a valid date."
+msgstr ""
+
+#: framework/js/localization.php:18
+msgid "Please enter a valid date (ISO)."
+msgstr ""
+
+#: framework/js/localization.php:19
+msgid "Please enter a valid number."
+msgstr ""
+
+#: framework/js/localization.php:20
+msgid "Please enter only digits."
+msgstr ""
+
+#: framework/js/localization.php:21
+msgid "Please enter a valid credit card number."
+msgstr ""
+
+#: framework/js/localization.php:22
+msgid "Please enter the same value again."
+msgstr ""
+
+#: framework/js/localization.php:23
+msgid "Please enter no more than {0} characters."
+msgstr ""
+
+#: framework/js/localization.php:24
+msgid "Please enter at least {0} characters."
+msgstr ""
+
+#: framework/js/localization.php:25
+msgid "Please enter a value between {0} and {1} characters long."
+msgstr ""
+
+#: framework/js/localization.php:26
+msgid "Please enter a value between {0} and {1}."
+msgstr ""
+
+#: framework/js/localization.php:27
+msgid "Please enter a value less than or equal to {0}."
+msgstr ""
+
+#: framework/js/localization.php:28
+msgid "Please enter a value greater than or equal to {0}."
+msgstr ""
+
+#: framework/js/localization.php:37
+msgid "Done"
+msgstr ""
+
+#: framework/js/localization.php:38
+msgid "Prev"
+msgstr ""
+
+#: framework/js/localization.php:39
+msgid "Next"
+msgstr ""
+
+#: framework/js/localization.php:41
+msgid "Wk"
+msgstr ""
+
+#: framework/js/localization.php:47
+msgctxt "two-letter abbreviation of the weekday"
+msgid "Su"
+msgstr ""
+
+#: framework/js/localization.php:48
+msgctxt "two-letter abbreviation of the weekday"
+msgid "Mo"
+msgstr ""
+
+#: framework/js/localization.php:49
+msgctxt "two-letter abbreviation of the weekday"
+msgid "Tu"
+msgstr ""
+
+#: framework/js/localization.php:50
+msgctxt "two-letter abbreviation of the weekday"
+msgid "We"
+msgstr ""
+
+#: framework/js/localization.php:51
+msgctxt "two-letter abbreviation of the weekday"
+msgid "Th"
+msgstr ""
+
+#: framework/js/localization.php:52
+msgctxt "two-letter abbreviation of the weekday"
+msgid "Fr"
+msgstr ""
+
+#: framework/js/localization.php:53
+msgctxt "two-letter abbreviation of the weekday"
+msgid "Sa"
+msgstr ""
+
+#: framework/kernel/functions.php:22
+msgid "APP_Core class required."
+msgstr ""
+
+#: framework/kernel/functions.php:179
+msgid ""
+"Query vars cannot be added before WP_Query is instantiated and default query "
+"vars has not been pre-filled yet."
+msgstr ""
+
+#: framework/kernel/functions.php:287
+msgid "You must first login."
+msgstr ""
+
+#: framework/kernel/functions.php:288
+msgid "You must first login or <a href=\"%s\">register</a>."
+msgstr ""
+
+#: framework/kernel/functions.php:328
+msgid "Lost password?"
+msgstr ""
+
+#: framework/kernel/functions.php:380
+msgid "Page %s of %s"
+msgstr ""
+
+#: framework/kernel/functions.php:630
+msgid "No categories"
+msgstr ""
+
+#: framework/kernel/functions.php:1328
+#: includes/payments/admin/order-list.php:140
+msgid "%s ago"
+msgstr ""
+
+#: framework/kernel/view-types.php:258
+msgid ""
+"Retrieving page id by APP_View_Page subclass name is deprecated, use "
+"APP_View_Page::_get_page_id( $template ) instead!"
+msgstr ""
+
+#: framework/load.php:170
+msgid ""
+"The %s plugin is not detected. We strongly recommend you download and "
+"activate it so you can receive the latest updates when available. It also "
+"protects your theme from being overwritten by a similarly named theme."
+msgstr ""
+
+#: framework/media-manager/media-manager.php:135
+msgid "Allowed files"
+msgstr ""
+
+#: framework/media-manager/media-manager.php:136
+msgid "Allowed file types"
+msgstr ""
+
+#: framework/media-manager/media-manager.php:137
+msgid "Insert Media"
+msgstr ""
+
+#: framework/media-manager/media-manager.php:138
+msgid "Insert from URL"
+msgstr ""
+
+#: framework/media-manager/media-manager.php:139
+msgid "Maximum upload file size"
+msgstr ""
+
+#: framework/media-manager/media-manager.php:140
+msgid "Allowed embeds"
+msgstr ""
+
+#: framework/media-manager/media-manager.php:141
+msgid "Clear Embeds (clears any previously added embeds)"
+msgstr ""
+
+#: framework/media-manager/media-manager.php:142
+msgid "No more embeds allowed"
+msgstr ""
+
+#: framework/media-manager/media-manager.php:182
+msgid "Add Media"
+msgstr ""
+
+#: framework/media-manager/media-manager.php:183
+msgid "Manage Media"
+msgstr ""
+
+#: framework/media-manager/media-manager.php:184
+msgid "No media added yet"
+msgstr ""
+
+#: framework/media-manager/media-manager.php:374
+#: includes/payments/admin/order-list.php:106
+#: includes/payments/admin/order-single.php:159
+msgid "Unknown"
+msgstr ""
+
+#: framework/media-manager/media-manager.php:626
+msgid "Sorry, allowed mime types do not seem to be valid."
+msgstr ""
+
+#: framework/media-manager/media-manager.php:662
+msgid "Sorry, you cannot upload this file type for this field."
+msgstr ""
+
+#: framework/media-manager/media-manager.php:675
+msgid "Sorry, the allowed file size does not seem to be valid."
+msgstr ""
+
+#: framework/media-manager/media-manager.php:682
+msgid ""
+"Sorry, you cannot upload this file as it exceeds the size limitations for "
+"this field."
+msgstr ""
+
+#: framework/media-manager/media-manager.php:705
+msgid "Sorry, you've reached the file upload limit for this field."
+msgstr ""
+
+#: framework/p2p-core/connection-type.php:91
+msgid "Create connections"
+msgstr ""
+
+#: framework/p2p-core/connection-type.php:109
+msgid "Connected %s"
+msgstr ""
+
+#: framework/p2p-core/side-user.php:16
+msgid "Users"
+msgstr ""
+
+#: framework/p2p-core/side-user.php:25 includes/admin/service-single.php:118
+msgid "User"
+msgstr ""
+
+#: framework/p2p-core/side-user.php:26
+msgid "Search Users"
+msgstr ""
+
+#: framework/p2p-core/side-user.php:27
+msgid "No users found."
+msgstr ""
+
+#: framework/p2p-core/widget.php:19
+msgid "Posts 2 Posts"
+msgstr ""
+
+#: framework/p2p-core/widget.php:20
+msgid "A list of posts connected to the current post"
+msgstr ""
+
+#: framework/p2p-core/widget.php:44
+msgid "Connection type:"
+msgstr ""
+
+#: framework/p2p-core/widget.php:49
+msgid "Connection listing:"
+msgstr ""
+
+#: framework/p2p-core/widget.php:55
+msgid "connected"
+msgstr ""
+
+#: framework/p2p-core/widget.php:56
+msgid "related"
+msgstr ""
+
+#: framework/scb/AdminPage.php:261
+msgid "Settings <strong>saved</strong>."
+msgstr ""
+
+#: functions.php:167
+msgid "Attachments"
+msgstr ""
+
+#: functions.php:191
+msgid "Feature on Homepage"
+msgstr ""
+
+#: functions.php:198
+msgid "Feature on Category"
+msgstr ""
+
+#: headliner.php:13
+msgid "%s Details"
+msgstr ""
+
+#: includes/addons.php:12
+msgid "Featured on Homepage"
+msgstr ""
+
+#: includes/addons.php:17
+msgid "Featured on Category"
+msgstr ""
+
+#: includes/admin/addons-mp/addons-mp-class.php:79
+#: loop-dashboard-notifications.php:29
+msgid "New"
+msgstr ""
+
+#: includes/admin/addons-mp/addons-mp-class.php:80
+msgid "Popular"
+msgstr ""
+
+#: includes/admin/addons-mp/addons-mp-class.php:175
+msgid "All Products"
+msgstr ""
+
+#: includes/admin/addons-mp/addons-mp-class.php:189
+msgid "All Categories"
+msgstr ""
+
+#: includes/admin/addons-mp/addons-mp-class.php:203
+msgid "All Authors"
+msgstr ""
+
+#: includes/admin/addons-mp/addons-mp-class.php:441
+#: includes/admin/addons-mp/addons-mp-class.php:442
+#: includes/admin/addons-mp/addons-mp-class.php:444
+msgid "Search Add-ons"
+msgstr ""
+
+#: includes/admin/addons-mp/addons-mp-class.php:494
+#: includes/admin/addons-mp/addons-mp-class.php:781
+msgid "Child Themes"
+msgstr ""
+
+#: includes/admin/addons-mp/addons-mp-class.php:592
+msgid "By %1$s"
+msgstr ""
+
+#: includes/admin/addons-mp/addons-mp-class.php:602
+msgid "Last Updated:"
+msgstr ""
+
+#: includes/admin/addons-mp/addons-mp-class.php:603
+msgid "%1$s ago"
+msgstr ""
+
+#: includes/admin/addons-mp/addons-mp-class.php:609
+msgid "Requirements:"
+msgstr ""
+
+#: includes/admin/addons-mp/addons-mp-class.php:632
+msgid "Try again"
+msgstr ""
+
+#: includes/admin/addons-mp/addons-mp-class.php:634
+msgid "No add-ons match your request."
+msgstr ""
+
+#: includes/admin/addons-mp/addons-mp-class.php:731
+msgid "Themes"
+msgstr ""
+
+#: includes/admin/addons-mp/addons-mp-class.php:780
+msgid "Payment Gateways"
+msgstr ""
+
+#: includes/admin/addons-mp/addons-mp-class.php:782
+msgid "General Themes"
+msgstr ""
+
+#: includes/admin/addons-mp/admin.php:32
+msgid "Add-ons"
+msgstr ""
+
+#: includes/admin/addons-mp/admin.php:98
+msgid "Marketplace Add-ons"
+msgstr ""
+
+#: includes/admin/addons-mp/admin.php:99
+msgid "Browse Marketplace"
+msgstr ""
+
+#: includes/admin/addons-mp/admin.php:100
+msgid "Browse Themes"
+msgstr ""
+
+#: includes/admin/dashboard.php:18
+msgid "Taskerr Dashboard"
+msgstr ""
+
+#. #-#-#-#-#  taskerr.pot (Taskerr 1.3.1)  #-#-#-#-#
+#. Theme Name of the plugin/theme
+#: includes/admin/dashboard.php:19
+msgid "Taskerr"
+msgstr ""
+
+#: includes/admin/featured.php:34 includes/admin/settings.php:35
+#: includes/core.php:20 includes/core.php:31
+msgid "Services"
+msgstr ""
+
+#: includes/admin/featured.php:43
+msgid "Service Add-ons"
+msgstr ""
+
+#: includes/admin/featured.php:51 includes/sorting.php:673
+msgid "Type"
+msgstr ""
+
+#: includes/admin/featured.php:52
+msgid "Enabled"
+msgstr ""
+
+#: includes/admin/featured.php:54 includes/admin/service-single.php:248
+#: includes/plans/admin.php:140
+msgid "Duration"
+msgstr ""
+
+#: includes/admin/featured.php:92 includes/plans/admin.php:143
+msgid "days"
+msgstr ""
+
+#: includes/admin/install.php:65
+msgid "Welcome to %s! The best site to buy and sell services!"
+msgstr ""
+
+#: includes/admin/install.php:66
+msgid "Buyers"
+msgstr ""
+
+#: includes/admin/install.php:67
+msgid ""
+"Look around! See something you like? Press <code>Buy</code> on the service "
+"and fill out the task request form. The provider will then contact you "
+"through email to discuss payment details. When the provider has received "
+"your payment, the task request will be marked as <code>Paid</code>."
+msgstr ""
+
+#: includes/admin/install.php:68
+msgid ""
+"Finally, when the provider has finished the task, the task request will be "
+"marked as <code>Completed</code>. Make sure the task was preformed as asked, "
+"and then mark the request as <code>Confirmed</code>! Finally, you can give "
+"the service provider a rating to how awesome of a job they did!"
+msgstr ""
+
+#: includes/admin/install.php:69
+msgid "Sellers"
+msgstr ""
+
+#: includes/admin/install.php:70
+msgid ""
+"Post up your service for users to view. When a user decides they want to "
+"purchase your service, they will fill out a task request with any special "
+"instruction they'd like to give you. Both you and the buyer will be sent a "
+"confirmation email along with contact details. You can then contact the user "
+"with details on how they should transfer payment to you."
+msgstr ""
+
+#: includes/admin/install.php:71
+msgid ""
+"After you have received payment from the buyer, mark the task request as "
+"<code>Paid</code>. Then, when you have completed work on the task, mark it "
+"as <code>Completed</code>. The user will verify that you have completed the "
+"task and mark it as <code>Confirmed</code>."
+msgstr ""
+
+#: includes/admin/install.php:72
+msgid "That's all there is to it!"
+msgstr ""
+
+#: includes/admin/install.php:78
+msgid "How Things Work"
+msgstr ""
+
+#: includes/admin/install.php:106
+msgid "Header"
+msgstr ""
+
+#: includes/admin/install.php:147
+msgid "Create <strong>MicroJob</strong> site in minutes!"
+msgstr ""
+
+#: includes/admin/install.php:148
+msgid ""
+"This stylized area, as well as a list of the categories below are not part "
+"of the home page layout. This is nothing more than a simple widgets. You can "
+"change them, delete or add new in the Widgets settings section \"%1$s\". If "
+"you want to add these widgets on all other pages, use section \"%2$s\". "
+"Happy Styling!"
+msgstr ""
+
+#: includes/admin/install.php:148 includes/core.php:214
+msgid "Central Area - Home"
+msgstr ""
+
+#: includes/admin/install.php:148 includes/core.php:204
+msgid "Central Area"
+msgstr ""
+
+#: includes/admin/install.php:149
+msgid "get started"
+msgstr ""
+
+#: includes/admin/install.php:166 includes/admin/install.php:172
+msgid "Advertisement"
+msgstr ""
+
+#: includes/admin/service-single.php:34
+msgid "Service Pricing Details"
+msgstr ""
+
+#: includes/admin/service-single.php:41
+msgid "Cost for Service"
+msgstr ""
+
+#: includes/admin/service-single.php:67
+msgid "Price must be numeric"
+msgstr ""
+
+#: includes/admin/service-single.php:71
+msgid "Price must be greater than or equal to zero."
+msgstr ""
+
+#: includes/admin/service-single.php:79
+msgid "Delivery Time must be numeric"
+msgstr ""
+
+#: includes/admin/service-single.php:83
+msgid "Delivery Time must be greater than or equal to zero."
+msgstr ""
+
+#: includes/admin/service-single.php:117
+msgid "Created Date"
+msgstr ""
+
+#: includes/admin/service-single.php:119
+#: includes/payments/admin/order-meta.php:152
+#: includes/payments/admin/order-single.php:145
+#: includes/search-index/class-search-index.php:68 includes/sorting.php:715
+msgid "Status"
+msgstr ""
+
+#: includes/admin/service-single.php:120
+msgid "Special Instructions"
+msgstr ""
+
+#: includes/admin/service-single.php:154 includes/views.php:802
+msgid "Tasks"
+msgstr ""
+
+#: includes/admin/service-single.php:170
+msgid "Listing Pricing Details"
+msgstr ""
+
+#: includes/admin/service-single.php:186
+msgid "Never"
+msgstr ""
+
+#: includes/admin/service-single.php:187
+msgctxt "Datepicker default date format, see: http://goo.gl/6MWmLK"
+msgid "mm/dd/yy"
+msgstr ""
+
+#: includes/admin/service-single.php:203
+msgid "Listing"
+msgstr ""
+
+#: includes/admin/service-single.php:217
+msgid ""
+"These settings allow you to override the defaults that have been applied to "
+"the listings based on the plan the owner chose. They will apply until the "
+"listing expires."
+msgstr ""
+
+#: includes/admin/service-single.php:249
+msgid "days (0 = Infinite)"
+msgstr ""
+
+#: includes/admin/service-single.php:257
+msgid "Start Date"
+msgstr ""
+
+#: includes/admin/service-single.php:264
+msgid "Expires on"
+msgstr ""
+
+#: includes/admin/settings.php:20
+msgid "Taskerr Settings"
+msgstr ""
+
+#: includes/admin/settings.php:34 includes/payments/admin/settings.php:32
+#: includes/payments/gateways/bank-transfer/bank-transfer.php:55
+#: includes/payments/gateways/paypal/paypal.php:131
+msgid "General"
+msgstr ""
+
+#: includes/admin/settings.php:36 includes/admin/settings.php:231
+#: includes/payments/gateways/paypal/paypal.php:193
+#: includes/reviews/admin/settings.php:42 includes/views.php:978 top-bar.php:49
+#: top-bar.php:51
+msgid "Notifications"
+msgstr ""
+
+#: includes/admin/settings.php:41
+msgid "Security Settings"
+msgstr ""
+
+#: includes/admin/settings.php:44
+msgid "Back Office Access"
+msgstr ""
+
+#: includes/admin/settings.php:45
+msgid ""
+"View the WordPress <a target='_new' href='%s'>Roles and Capabilities</a> for "
+"more information."
+msgstr ""
+
+#: includes/admin/settings.php:46
+msgid ""
+"Allows you to restrict access to the WordPress Back Office (wp-admin) by "
+"specific role. Keeping this set to admins only is recommended. Select "
+"Disable if you have problems with this feature."
+msgstr ""
+
+#: includes/admin/settings.php:50
+msgid "Admins Only"
+msgstr ""
+
+#: includes/admin/settings.php:51
+msgid "Admins, Editors"
+msgstr ""
+
+#: includes/admin/settings.php:52
+msgid "Admins, Editors, Authors"
+msgstr ""
+
+#: includes/admin/settings.php:53
+msgid "Admins, Editors, Authors, Contributors"
+msgstr ""
+
+#: includes/admin/settings.php:54
+msgid "All Access"
+msgstr ""
+
+#: includes/admin/settings.php:55
+msgid "Disable"
+msgstr ""
+
+#: includes/admin/settings.php:59
+msgid "Disable WordPress Login Page"
+msgstr ""
+
+#: includes/admin/settings.php:63
+msgid ""
+"If someone tries to access <code>wp-login.php</code> directly, they will be "
+"redirected to Taskerr themed login pages. If you want to use any "
+"\"maintenance mode\" plugins, you should enable the default WordPress login "
+"page."
+msgstr ""
+
+#: includes/admin/settings.php:69
+msgid "Contact Settings"
+msgstr ""
+
+#: includes/admin/settings.php:72
+msgid "Public Email"
+msgstr ""
+
+#: includes/admin/settings.php:73
+msgid "Publicy visible email address"
+msgstr ""
+
+#: includes/admin/settings.php:81
+msgid "Phone number"
+msgstr ""
+
+#: includes/admin/settings.php:82
+msgid "Publicy visible phone number"
+msgstr ""
+
+#: includes/admin/settings.php:90
+msgid "Skype"
+msgstr ""
+
+#: includes/admin/settings.php:91
+msgid "Publicy visible Skype account"
+msgstr ""
+
+#: includes/admin/settings.php:102
+msgid "Appearance"
+msgstr ""
+
+#: includes/admin/settings.php:105
+msgid "Favicon"
+msgstr ""
+
+#: includes/admin/settings.php:106
+msgid "Type an image URL."
+msgstr ""
+
+#: includes/admin/settings.php:109
+msgid "Paste the URL of your web site favicon image here."
+msgstr ""
+
+#: includes/admin/settings.php:112
+msgid "Theme Customizer"
+msgstr ""
+
+#: includes/admin/settings.php:113
+msgid ""
+"<a href=\"%s\">Customize Taskerr</a> design and settings and see the results "
+"real-time without opening or refreshing a new browser window."
+msgstr ""
+
+#: includes/admin/settings.php:119
+msgid ""
+"Use the WordPress Theme Customizer to try out different design options and "
+"other Taskerr settings."
+msgstr ""
+
+#: includes/admin/settings.php:122
+msgid "Header Image"
+msgstr ""
+
+#: includes/admin/settings.php:123
+msgid "Set Your Header Image in the <a href=\"%s\">Header</a> settings."
+msgstr ""
+
+#: includes/admin/settings.php:130
+msgid ""
+"This is where you can upload/manage your logo that appears in your site's "
+"header along with settings to control the text below the logo."
+msgstr ""
+
+#: includes/admin/settings.php:133
+msgid "Background Image"
+msgstr ""
+
+#: includes/admin/settings.php:134
+msgid ""
+"Set Your Background Image in the <a href=\"%s\">Background</a> settings."
+msgstr ""
+
+#: includes/admin/settings.php:141
+msgid "This is where you can upload/manage background."
+msgstr ""
+
+#: includes/admin/settings.php:149
+msgid "Charge for Services"
+msgstr ""
+
+#: includes/admin/settings.php:153
+msgid ""
+"Do you want to charge for creating a service on your site? You can manage "
+"your <a href=\"%s\">Payments Settings</a> in the Payments Menu."
+msgstr ""
+
+#: includes/admin/settings.php:156
+msgid "Moderate Services"
+msgstr ""
+
+#: includes/admin/settings.php:160
+msgid "Do you want to moderate new services before they are displayed live?"
+msgstr ""
+
+#: includes/admin/settings.php:163
+msgid "Duration (Free Services Only)"
+msgstr ""
+
+#: includes/admin/settings.php:166
+msgid "The duration in days to be applied to new services."
+msgstr ""
+
+#: includes/admin/settings.php:172
+msgid "Media Options"
+msgstr ""
+
+#: includes/admin/settings.php:175
+msgid "Max Images Per Listing"
+msgstr ""
+
+#: includes/admin/settings.php:178
+msgid ""
+"The number of images the service provider can upload with each of their "
+"listing. \"0\" - uploading images is not allowed, \"-1\" - no limit."
+msgstr ""
+
+#: includes/admin/settings.php:181
+msgid "Max Videos Per Listing"
+msgstr ""
+
+#: includes/admin/settings.php:184
+msgid ""
+"The number of videos the service provider can upload with each of their "
+"listing. \"0\" - uploading videos is not allowed, \"-1\" - no limit."
+msgstr ""
+
+#: includes/admin/settings.php:187
+msgid "Max Embeddings Per Listing"
+msgstr ""
+
+#: includes/admin/settings.php:190
+msgid ""
+"The number of media links the service provider can embed to each of their "
+"listing. \"0\" - embedding media is not allowed, \"-1\" - no limit."
+msgstr ""
+
+#: includes/admin/settings.php:193
+msgid "Max Size Per Image"
+msgstr ""
+
+#: includes/admin/settings.php:196
+msgid ""
+"The maximum image size (per image) the service provider can upload with each "
+"of their listing. \"-1\" - use system value. Default unit is Bytes (\"B\"), "
+"you can use also \"KB\", \"K\", \"MB\", \"M\", \"GB\", \"G\"."
+msgstr ""
+
+#: includes/admin/settings.php:199
+msgid "Max Size Per Video"
+msgstr ""
+
+#: includes/admin/settings.php:202
+msgid ""
+"The maximum video size (per video) the service provider can upload with each "
+"of their listing. \"-1\" - use system value. Default unit is Bytes (\"B\" "
+"can be omitted), you can use also \"KB\", \"K\", \"MB\", \"M\", \"GB\", \"G"
+"\"."
+msgstr ""
+
+#: includes/admin/settings.php:208
+msgid "Integration"
+msgstr ""
+
+#: includes/admin/settings.php:211
+msgid "Display ShareThis on Services Lists"
+msgstr ""
+
+#: includes/admin/settings.php:216
+msgid ""
+"If you have the <a href=\"%1$s\" target=\"_blank\">ShareThis</a> plugin "
+"instaled it will be only visible on single services. This option enables you "
+"to display it on the services list views also."
+msgstr ""
+
+#: includes/admin/settings.php:219
+msgid "Display ShareThis on Blog Posts"
+msgstr ""
+
+#: includes/admin/settings.php:224
+msgid ""
+"If you have the <a href=\"%1$s\" target=\"_blank\">ShareThis</a> plugin "
+"instaled it will be only visible on single listings. This option enables you "
+"to display it on single blog posts also."
+msgstr ""
+
+#: includes/admin/settings.php:234
+msgid "New Services"
+msgstr ""
+
+#: includes/admin/settings.php:238
+msgid "Notify admins when new services are posted"
+msgstr ""
+
+#: includes/admin/settings.php:247
+msgid "Social"
+msgstr ""
+
+#: includes/admin/settings.php:265
+msgid "Accounts"
+msgstr ""
+
+#: includes/admin/upgrade.php:47
+msgid "Select your plan &amp; pricing"
+msgstr ""
+
+#: includes/admin/upgrade.php:48
+msgid ""
+"Each plan has its price, duration and set of features. Choose the one that "
+"suits you."
+msgstr ""
+
+#: includes/core.php:21 includes/sorting.php:612
+msgid "Service"
+msgstr ""
+
+#: includes/core.php:22 includes/payments/order-functions.php:43
+#: includes/plans/plans.php:27
+msgid "Add New"
+msgstr ""
+
+#: includes/core.php:23
+msgid "Add New Service"
+msgstr ""
+
+#: includes/core.php:25
+msgid "New Service"
+msgstr ""
+
+#: includes/core.php:27
+msgid "Search Services"
+msgstr ""
+
+#: includes/core.php:28
+msgid "No services found"
+msgstr ""
+
+#: includes/core.php:29
+msgid "No services found in Trash"
+msgstr ""
+
+#: includes/core.php:30
+msgid "Parent Services:"
+msgstr ""
+
+#: includes/core.php:68
+msgid "Service Categories"
+msgstr ""
+
+#: includes/core.php:69
+msgid "Service Category"
+msgstr ""
+
+#: includes/core.php:70
+msgid "Search Service Categories"
+msgstr ""
+
+#: includes/core.php:71
+msgid "All Service Categories"
+msgstr ""
+
+#: includes/core.php:72
+msgid "Parent Listing Category"
+msgstr ""
+
+#: includes/core.php:73
+msgid "Parent Listing Category:"
+msgstr ""
+
+#: includes/core.php:74
+msgid "Edit Service Category"
+msgstr ""
+
+#: includes/core.php:75
+msgid "Update Service Category"
+msgstr ""
+
+#: includes/core.php:76
+msgid "Add New Service Category"
+msgstr ""
+
+#: includes/core.php:77
+msgid "New Listing Category Name"
+msgstr ""
+
+#: includes/core.php:78
+msgid "Add or remove service categories"
+msgstr ""
+
+#: includes/core.php:102
+msgid "Service Tags"
+msgstr ""
+
+#: includes/core.php:103
+msgid "Service Tag"
+msgstr ""
+
+#: includes/core.php:104
+msgid "Search Service Tags"
+msgstr ""
+
+#: includes/core.php:105
+msgid "All Service Tags"
+msgstr ""
+
+#: includes/core.php:106
+msgid "Parent Listing Tag"
+msgstr ""
+
+#: includes/core.php:107
+msgid "Parent Listing Tag:"
+msgstr ""
+
+#: includes/core.php:108
+msgid "Edit Service Tag"
+msgstr ""
+
+#: includes/core.php:109
+msgid "Update Service Tag"
+msgstr ""
+
+#: includes/core.php:110
+msgid "Add New Service Tag"
+msgstr ""
+
+#: includes/core.php:111
+msgid "New Listing Tag Name"
+msgstr ""
+
+#: includes/core.php:112
+msgid "Add or remove service tags"
+msgstr ""
+
+#: includes/core.php:141
+msgid "Header Menu"
+msgstr ""
+
+#: includes/core.php:144
+msgid "Main Sidebar"
+msgstr ""
+
+#: includes/core.php:146
+msgid "Sidebar to the right of items on most pages"
+msgstr ""
+
+#: includes/core.php:154
+msgid "Blog Sidebar"
+msgstr ""
+
+#: includes/core.php:156
+msgid "Sidebar to the right of blog index"
+msgstr ""
+
+#: includes/core.php:164
+msgid "Single Service Sidebar"
+msgstr ""
+
+#: includes/core.php:166
+msgid "Sidebar to the right of single service page"
+msgstr ""
+
+#: includes/core.php:174
+msgid "Dashboard Sidebar"
+msgstr ""
+
+#: includes/core.php:176
+msgid "Sidebar to the right of all dashboard pages"
+msgstr ""
+
+#: includes/core.php:184
+msgid "Page Sidebar"
+msgstr ""
+
+#: includes/core.php:186
+msgid "Sidebar to the right of pages"
+msgstr ""
+
+#: includes/core.php:194
+msgid "Top Advert"
+msgstr ""
+
+#: includes/core.php:196
+msgid "Optional widgets area above the header of each page"
+msgstr ""
+
+#: includes/core.php:206
+msgid "Optional widgets area under the header of each page"
+msgstr ""
+
+#: includes/core.php:216
+msgid "Optional widgets area under the header of Home page"
+msgstr ""
+
+#: includes/core.php:224
+msgid "Bottom Advert"
+msgstr ""
+
+#: includes/core.php:226
+msgid "Optional widgets area above the Footer"
+msgstr ""
+
+#: includes/core.php:234
+msgid "Footer"
+msgstr ""
+
+#: includes/core.php:236
+msgid "Optional widget area at the bottom of each page"
+msgstr ""
+
+#: includes/customizer.php:26
+msgid "Header Background Color"
+msgstr ""
+
+#: includes/customizer.php:34
+msgid "Footer Background Color"
+msgstr ""
+
+#: includes/customizer.php:79
+msgid "Blue (default)"
+msgstr ""
+
+#: includes/customizer.php:99
+msgid "Turquoise"
+msgstr ""
+
+#: includes/customizer.php:119
+msgid "Green"
+msgstr ""
+
+#: includes/customizer.php:139
+msgid "Yellow"
+msgstr ""
+
+#: includes/customizer.php:159
+msgid "Red"
+msgstr ""
+
+#: includes/customizer.php:209
+msgid "Color Scheme"
+msgstr ""
+
+#: includes/delete-service.php:21
+msgid "Are you sure want to delete that sevice?"
+msgstr ""
+
+#: includes/delete-service.php:55
+msgid "You do not have permission to delete that service."
+msgstr ""
+
+#: includes/delete-service.php:63
+msgid "Deleted service '%s'."
+msgstr ""
+
+#: includes/notifications/admin/admin-bar.php:20
+msgid "%s Unread"
+msgstr ""
+
+#: includes/notifications/admin/admin-bar.php:29
+msgid "No Notifications"
+msgstr ""
+
+#: includes/notifications/admin/settings.php:17
+#: includes/notifications/admin/settings.php:18
+msgid "Notifications Settings"
+msgstr ""
+
+#: includes/notifications/notifications-class.php:106
+msgctxt "Email subject: 1 - blog name, 2 - subject"
+msgid "[%1$s] %2$s"
+msgstr ""
+
+#: includes/notifications.php:53
+msgid "[%1$s] New Service Awaiting Moderation: %2$s"
+msgstr ""
+
+#: includes/notifications.php:56
+msgid "[%1$s] New Service Published: %2$s"
+msgstr ""
+
+#: includes/notifications.php:92
+msgid "[%1$s] Service Renewed: %2$s"
+msgstr ""
+
+#: includes/notifications.php:124
+msgid "Your Service - %s - was submitted and is awaiting moderation"
+msgstr ""
+
+#: includes/notifications.php:128
+msgid "Your Service - %s - was submitted and is now live!"
+msgstr ""
+
+#: includes/notifications.php:171
+msgid "Your Service - %s - was renewed and is now live!"
+msgstr ""
+
+#: includes/notifications.php:222
+msgid "Your Service - %s - was submitted and is awaiting payment"
+msgstr ""
+
+#: includes/notifications.php:285
+msgid "You have ordered a service - %s"
+msgstr ""
+
+#: includes/notifications.php:286
+msgid "User %1$s has just ordered your service - %2$s"
+msgstr ""
+
+#: includes/notifications.php:289
+msgid "%1$s has marked task #%2$s - as Paid"
+msgstr ""
+
+#: includes/notifications.php:290
+msgid "You have marked task #%s - as Paid"
+msgstr ""
+
+#: includes/notifications.php:293
+msgid "%1$s has marked task #%2$s - as Unpaid"
+msgstr ""
+
+#: includes/notifications.php:294
+msgid "You have marked task #%s - as Unpaid"
+msgstr ""
+
+#: includes/notifications.php:297
+msgid "%1$s has marked task #%2$s - as Completed"
+msgstr ""
+
+#: includes/notifications.php:298
+msgid "You have marked task #%s - as Completed"
+msgstr ""
+
+#: includes/notifications.php:301
+msgid "%1$s has marked task #%2$s - as Uncompleted"
+msgstr ""
+
+#: includes/notifications.php:302
+msgid "You have marked task #%s - as Uncompleted"
+msgstr ""
+
+#: includes/notifications.php:305
+msgid "You have marked task #%s - as Confirmed"
+msgstr ""
+
+#: includes/notifications.php:306
+msgid "%1$s has marked task #%2$s - as Confirmed"
+msgstr ""
+
+#: includes/notifications.php:309
+msgid "You have marked task #%s - as Unconfirmed"
+msgstr ""
+
+#: includes/notifications.php:310
+msgid "%1$s has marked task #%2$s - as Unconfirmed"
+msgstr ""
+
+#: includes/notifications.php:383
+msgid "Your Service listing - %s - has been approved!"
+msgstr ""
+
+#: includes/notifications.php:414
+msgid "Your Service listing - %s - has expired"
+msgstr ""
+
+#: includes/notifications.php:453
+msgid "Your review on - %1$s - was sent to %2$s"
+msgstr ""
+
+#: includes/notifications.php:473
+msgid "User %1$s has just sent you a review on - %2$s"
+msgstr ""
+
+#: includes/payments/admin/admin.php:38
+#: includes/payments/order-functions.php:41
+#: includes/payments/order-functions.php:52
+msgid "Orders"
+msgstr ""
+
+#: includes/payments/admin/admin.php:38
+#: includes/payments/admin/order-meta.php:114
+msgid "Payments"
+msgstr ""
+
+#: includes/payments/admin/order-list.php:25
+#: includes/payments/order-functions.php:42
+msgid "Order"
+msgstr ""
+
+#: includes/payments/admin/order-list.php:26 includes/plans/admin.php:37
+#: single-service.php:112 single.php:77
+#: theme-framework/admin/class-html-term-description.php:168
+#: theme-framework/admin/class-html-term-description.php:193
+msgid "Description"
+msgstr ""
+
+#: includes/payments/admin/order-list.php:31
+msgid "Payment"
+msgstr ""
+
+#: includes/payments/admin/order-list.php:83
+msgid "Purchased %s item"
+msgid_plural "Purchased %s items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/payments/admin/order-list.php:109
+#: includes/payments/admin/order-single.php:162
+msgid "Undecided"
+msgstr ""
+
+#: includes/payments/admin/order-list.php:130
+msgid "Unpublished"
+msgstr ""
+
+#: includes/payments/admin/order-list.php:133
+msgctxt "Order Date Format"
+msgid "Y/m/d g:i:s A"
+msgstr ""
+
+#: includes/payments/admin/order-list.php:142
+msgctxt "Order Date Format"
+msgid "Y/m/d"
+msgstr ""
+
+#: includes/payments/admin/order-meta.php:72
+#: includes/payments/admin/order-meta.php:122
+msgid "Connected Orders"
+msgstr ""
+
+#: includes/payments/admin/order-meta.php:150
+msgid "Last 10 Orders"
+msgstr ""
+
+#: includes/payments/admin/order-single.php:63 includes/views-checkout.php:561
+msgid "Order Summary"
+msgstr ""
+
+#: includes/payments/admin/order-single.php:65
+msgid "Affects"
+msgstr ""
+
+#: includes/payments/admin/order-single.php:75
+#: includes/payments/order-templates.php:464 includes/tasks.php:246
+msgid "Total"
+msgstr ""
+
+#: includes/payments/admin/order-single.php:90
+msgid ""
+"This item could not be recognized. It might be from another theme or an "
+"uninstalled plugin."
+msgstr ""
+
+#: includes/payments/admin/order-single.php:119
+msgid "Order Status"
+msgstr ""
+
+#: includes/payments/admin/order-single.php:141
+msgid "ID"
+msgstr ""
+
+#: includes/payments/admin/order-single.php:149
+msgid "Gateway"
+msgstr ""
+
+#: includes/payments/admin/order-single.php:168
+#: includes/payments/admin/settings.php:39
+msgid "Currency"
+msgstr ""
+
+#: includes/payments/admin/order-single.php:176
+msgid "Recurs:"
+msgstr ""
+
+#: includes/payments/admin/order-single.php:177
+msgid "Every %d %s"
+msgstr ""
+
+#: includes/payments/admin/order-single.php:180
+msgid "Payment Date:"
+msgstr ""
+
+#: includes/payments/admin/order-single.php:186
+msgid "Previously"
+msgstr ""
+
+#: includes/payments/admin/order-single.php:209
+msgid "Order Author"
+msgstr ""
+
+#: includes/payments/admin/order-single.php:271
+msgid "Order Actions"
+msgstr ""
+
+#: includes/payments/admin/order-single.php:291
+#: includes/payments/admin/order-single.php:301
+#: includes/payments/gateways/bank-transfer/bt-admin.php:38
+#: includes/task-actions-button.php:176
+msgid "Mark as Completed"
+msgstr ""
+
+#: includes/payments/admin/order-single.php:295
+#: includes/payments/admin/order-single.php:302
+msgid "Mark as Failed"
+msgstr ""
+
+#: includes/payments/admin/order-single.php:297
+msgid "Mark as Failed (Refund)"
+msgstr ""
+
+#: includes/payments/admin/order-single.php:303
+msgid "Reset Gateway"
+msgstr ""
+
+#: includes/payments/admin/order-single.php:309
+msgid "Reset Order"
+msgstr ""
+
+#: includes/payments/admin/order-single.php:312
+msgid "Activate Order"
+msgstr ""
+
+#: includes/payments/admin/order-single.php:315
+msgid "No actions available"
+msgstr ""
+
+#: includes/payments/admin/order-single.php:429
+msgid "Logged Date"
+msgstr ""
+
+#: includes/payments/admin/order-single.php:429
+#: includes/payments/gateways/bank-transfer/bank-transfer.php:41
+#: loop-dashboard-notifications.php:17
+msgid "Message"
+msgstr ""
+
+#: includes/payments/admin/security.php:93
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: includes/payments/admin/settings.php:17
+msgid "Payments Settings"
+msgstr ""
+
+#: includes/payments/admin/settings.php:35
+msgid "Regional"
+msgstr ""
+
+#: includes/payments/admin/settings.php:36
+msgid "The following options affect how prices are displayed on your website."
+msgstr ""
+
+#: includes/payments/admin/settings.php:45
+msgid "Identifier"
+msgstr ""
+
+#: includes/payments/admin/settings.php:49
+msgid "Symbol (%s)"
+msgstr ""
+
+#: includes/payments/admin/settings.php:50
+msgid "Code (%s)"
+msgstr ""
+
+#: includes/payments/admin/settings.php:54
+msgid "Position"
+msgstr ""
+
+#: includes/payments/admin/settings.php:65
+msgid "Thousand Separator"
+msgstr ""
+
+#: includes/payments/admin/settings.php:68
+msgid "The thousand separator of displayed prices."
+msgstr ""
+
+#: includes/payments/admin/settings.php:75
+msgid "Decimal Separator"
+msgstr ""
+
+#: includes/payments/admin/settings.php:78
+msgid "The decimal separator of displayed prices."
+msgstr ""
+
+#: includes/payments/admin/settings.php:88
+msgid "Tax"
+msgstr ""
+
+#: includes/payments/admin/settings.php:89
+msgid "The following options affect how taxes are applied to all purchases."
+msgstr ""
+
+#: includes/payments/admin/settings.php:92
+msgid "Rate"
+msgstr ""
+
+#: includes/payments/admin/settings.php:95
+msgid "%"
+msgstr ""
+
+#: includes/payments/admin/settings.php:96
+msgid "Set to zero to disable taxes."
+msgstr ""
+
+#: includes/payments/admin/settings.php:106
+msgid "Installed Gateways"
+msgstr ""
+
+#: includes/payments/admin/settings.php:111
+msgid "Security"
+msgstr ""
+
+#: includes/payments/admin/settings.php:114
+msgid "Allow users view their orders list"
+msgstr ""
+
+#: includes/payments/admin/settings.php:115
+msgid ""
+"Enable this option if you allow users view their orders list in back-end, "
+"otherwise only editors and administrators can do that."
+msgstr ""
+
+#: includes/payments/admin/settings.php:140
+msgid ""
+"This gateway is currently <strong>disabled</strong>. Users cannot use it as "
+"a purchasing option. Go to the <a href=\"?page=app-payments-settings"
+"\">General</a> tab to enable it."
+msgstr ""
+
+#: includes/payments/admin/settings.php:194
+#: includes/payments/escrow/admin/settings.php:176
+msgid "Enable"
+msgstr ""
+
+#: includes/payments/escrow/admin/settings.php:51
+msgid "Escrow"
+msgstr ""
+
+#: includes/payments/escrow/admin/settings.php:57
+msgid "Enable escrow"
+msgstr ""
+
+#: includes/payments/escrow/admin/settings.php:59
+msgid ""
+"A premier/business account is required for allowing customers to process "
+"recurring payments via PayPal"
+msgstr ""
+
+#: includes/payments/escrow/admin/settings.php:64
+msgid "Retained Amount"
+msgstr ""
+
+#: includes/payments/escrow/admin/settings.php:65
+msgid "The amount to retain on each escrow transaction."
+msgstr ""
+
+#: includes/payments/escrow/admin/settings.php:73
+msgid "Retain Type"
+msgstr ""
+
+#: includes/payments/escrow/admin/settings.php:74
+msgid ""
+"Choose whether you want to receive a flat amount or a percentage based "
+"amount."
+msgstr ""
+
+#: includes/payments/escrow/admin/settings.php:79
+msgid "Flat"
+msgstr ""
+
+#: includes/payments/escrow/admin/settings.php:80
+msgid "Percentage"
+msgstr ""
+
+#: includes/payments/escrow/admin/settings.php:87
+msgid "Installed Escrow Gateways"
+msgstr ""
+
+#: includes/payments/escrow/admin/settings.php:110
+msgid ""
+"This gateway is currently <strong>disabled</strong>. It cannot be used on "
+"escrow transactions. Go to the <a href=\"?page=app-payments-"
+"settings&tab=escrow\">Escrow</a> tab to enable it."
+msgstr ""
+
+#: includes/payments/escrow/admin/settings.php:122
+msgid ""
+"<strong>Important:</strong> You need a Premier or Verified Business PayPal "
+"account to be able to use the PayPal Adaptive service."
+msgstr ""
+
+#: includes/payments/escrow/escrow-settings-form-class.php:82
+msgid "Settings Saved."
+msgstr ""
+
+#: includes/payments/escrow/gateways/paypal-adaptive/paypal-adaptive-request.php:55
+msgid "[%1$s] Funds for \"%2$s\" (Order ID #%3$s)"
+msgstr ""
+
+#: includes/payments/escrow/gateways/paypal-adaptive/paypal-adaptive-request.php:202
+msgid ""
+"PayPal was unable to verify the payment receivers. Please contact site owner."
+msgstr ""
+
+#: includes/payments/escrow/gateways/paypal-adaptive/paypal-adaptive-request.php:227
+msgid "Added user '%1$s' with email '%2$s' as receiver"
+msgstr ""
+
+#: includes/payments/escrow/gateways/paypal-adaptive/paypal-adaptive.php:79
+msgid ""
+"PayPal was not able to execute the payment request. Please contact site "
+"owner."
+msgstr ""
+
+#: includes/payments/escrow/gateways/paypal-adaptive/paypal-adaptive.php:81
+msgid ""
+"The following error ocurred while trying to make the pay request: \"%s\""
+msgstr ""
+
+#: includes/payments/escrow/gateways/paypal-adaptive/paypal-adaptive.php:83
+#: includes/payments/escrow/gateways/paypal-adaptive/paypal-adaptive.php:127
+msgid "No response code from PayPal while trying to execute the payment."
+msgstr ""
+
+#: includes/payments/escrow/gateways/paypal-adaptive/paypal-adaptive.php:100
+#: includes/payments/gateways/paypal/paypal.php:106
+msgid "You are now being redirected to PayPal."
+msgstr ""
+
+#: includes/payments/escrow/gateways/paypal-adaptive/paypal-adaptive.php:123
+msgid "PayPal was not able to execute the payment. Please contact site owner."
+msgstr ""
+
+#: includes/payments/escrow/gateways/paypal-adaptive/paypal-adaptive.php:125
+msgid "The following error ocurred while trying to execute the payment: \"%s\""
+msgstr ""
+
+#: includes/payments/escrow/gateways/paypal-adaptive/paypal-adaptive.php:132
+msgid "Funds transferred to receivers"
+msgstr ""
+
+#: includes/payments/escrow/gateways/paypal-adaptive/paypal-adaptive.php:155
+msgid "PayPal was not able to execute the refund. Please contact site owner."
+msgstr ""
+
+#: includes/payments/escrow/gateways/paypal-adaptive/paypal-adaptive.php:157
+msgid "The following error ocurred while trying to execute the refund: \"%s\""
+msgstr ""
+
+#: includes/payments/escrow/gateways/paypal-adaptive/paypal-adaptive.php:159
+msgid "No response code from PayPal while trying to execute the refund."
+msgstr ""
+
+#: includes/payments/escrow/gateways/paypal-adaptive/paypal-adaptive.php:189
+msgid "PayPal Escrow Information"
+msgstr ""
+
+#: includes/payments/escrow/gateways/paypal-adaptive/paypal-adaptive.php:192
+#: includes/payments/gateways/paypal/paypal.php:135
+msgid "PayPal Email"
+msgstr ""
+
+#: includes/payments/escrow/gateways/paypal-adaptive/paypal-adaptive.php:198
+msgid "Money transfers will be made to this PayPal email address."
+msgstr ""
+
+#: includes/payments/escrow/gateways/paypal-adaptive/paypal-adaptive.php:222
+msgid "Adaptive Payments SANDBOX API Credentials (Escrow)"
+msgstr ""
+
+#: includes/payments/escrow/gateways/paypal-adaptive/paypal-adaptive.php:225
+#: includes/payments/escrow/gateways/paypal-adaptive/paypal-adaptive.php:255
+msgid "Username"
+msgstr ""
+
+#: includes/payments/escrow/gateways/paypal-adaptive/paypal-adaptive.php:226
+msgid ""
+"Your sandbox account API credentials username. You can find more info on "
+"creating/managing API credentials <a href=\"%s\">here</a>."
+msgstr ""
+
+#: includes/payments/escrow/gateways/paypal-adaptive/paypal-adaptive.php:231
+#: includes/payments/escrow/gateways/paypal-adaptive/paypal-adaptive.php:261
+msgid "Password"
+msgstr ""
+
+#: includes/payments/escrow/gateways/paypal-adaptive/paypal-adaptive.php:232
+msgid ""
+"Your sandbox account API credentials password. You can find more info on "
+"creating/managing API credentials <a href=\"%s\">here</a>."
+msgstr ""
+
+#: includes/payments/escrow/gateways/paypal-adaptive/paypal-adaptive.php:237
+#: includes/payments/escrow/gateways/paypal-adaptive/paypal-adaptive.php:267
+msgid "Signature"
+msgstr ""
+
+#: includes/payments/escrow/gateways/paypal-adaptive/paypal-adaptive.php:238
+msgid ""
+"Your sandbox account API credentials signature. You can find more info on "
+"creating/managing API credentials <a href=\"%s\">here</a>."
+msgstr ""
+
+#: includes/payments/escrow/gateways/paypal-adaptive/paypal-adaptive.php:252
+msgid "Adaptive Payments LIVE API Credentials (Escrow)"
+msgstr ""
+
+#: includes/payments/escrow/gateways/paypal-adaptive/paypal-adaptive.php:256
+msgid ""
+"Your LIVE API credentials username. You can find more info on creating/"
+"managing API credentials <a href=\"%s\">here</a>."
+msgstr ""
+
+#: includes/payments/escrow/gateways/paypal-adaptive/paypal-adaptive.php:262
+msgid ""
+"Your LIVE API credentials password. You can find more info on creating/"
+"managing API credentials <a href=\"%s\">here</a>."
+msgstr ""
+
+#: includes/payments/escrow/gateways/paypal-adaptive/paypal-adaptive.php:268
+msgid ""
+"Your LIVE API credentials signature. You can find more info on creating/"
+"managing API credentials <a href=\"%s\">here</a>."
+msgstr ""
+
+#: includes/payments/escrow/gateways/paypal-adaptive/paypal-adaptive.php:273
+msgid "AppID"
+msgstr ""
+
+#: includes/payments/escrow/gateways/paypal-adaptive/paypal-adaptive.php:274
+msgid ""
+"Your Application ID. This should be your LIVE AppID <u>NOT</u> the generic "
+"AppID <code>APP-80W284485P519543</code> used for testing. You can find more "
+"info on creating/managing PayPal applications <a href=\"%s\">here</a>."
+msgstr ""
+
+#: includes/payments/escrow/gateways/paypal-adaptive/paypal-adaptive.php:275
+msgid ""
+"<strong>Important:</strong> You can only start accepting 'escrow' "
+"transactions after your AppID is fully approved by PayPal. Applications with "
+"status 'Approved Conditionally' are not considered approved for 'escrow' "
+"transactions. "
+msgstr ""
+
+#: includes/payments/escrow/gateways/paypal-adaptive/paypal-adaptive.php:289
+msgid "Adaptive Payments Fees"
+msgstr ""
+
+#: includes/payments/escrow/gateways/paypal-adaptive/paypal-adaptive.php:292
+msgid "Payer"
+msgstr ""
+
+#: includes/payments/escrow/gateways/paypal-adaptive/paypal-adaptive.php:293
+msgid "Who should pay any applicable fees?"
+msgstr ""
+
+#: includes/payments/escrow/gateways/paypal-adaptive/paypal-adaptive.php:297
+msgid "Primary Receiver (You)"
+msgstr ""
+
+#: includes/payments/escrow/gateways/paypal-adaptive/paypal-adaptive.php:298
+msgid "Secondary Receiver"
+msgstr ""
+
+#: includes/payments/escrow/gateways/paypal-adaptive/paypal-adaptive.php:324
+msgid "<a href=\"%s\">Obtain Sandbox API Credentials</a>"
+msgstr ""
+
+#: includes/payments/escrow/gateways/paypal-adaptive/paypal-adaptive.php:329
+msgid ""
+"<strong>Important:</strong> To obtain live PayPal credentials, you must have "
+"a verified Premier or verified Business PayPal account. Also, make sure your "
+"PayPal account is able to receive money on every currency accepted on your "
+"site. Otherwise, users will not be able to transfer money to you."
+msgstr ""
+
+#: includes/payments/escrow/gateways/paypal-adaptive/paypal-adaptive.php:330
+msgid "<a href=\"%s\">Obtain Live API Credentials</a>"
+msgstr ""
+
+#: includes/payments/escrow/gateways/paypal-adaptive/paypal-adaptive.php:378
+msgid "Details"
+msgstr ""
+
+#: includes/payments/escrow/gateways/paypal-adaptive/paypal-adaptive.php:406
+msgid "Funds"
+msgstr ""
+
+#: includes/payments/escrow/gateways/paypal-adaptive/paypal-adaptive.php:413
+msgid "Receiver"
+msgstr ""
+
+#: includes/payments/escrow/gateways/paypal-adaptive/paypal-adaptive.php:417
+msgid "Amount"
+msgstr ""
+
+#: includes/payments/escrow/gateways/paypal-adaptive/paypal-adaptive.php:422
+msgid "Retained"
+msgstr ""
+
+#: includes/payments/escrow/gateways/paypal-adaptive/paypal-adaptive.php:423
+msgid "(when completed)"
+msgstr ""
+
+#: includes/payments/escrow/gateways/paypal-adaptive/paypal-adaptive.php:431
+msgid "N/A"
+msgstr ""
+
+#: includes/payments/escrow/load.php:42
+msgid "Paid <span class=\"count\">(%s)</span>"
+msgid_plural "Paid <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/payments/escrow/load.php:49
+msgid "Refunded <span class=\"count\">(%s)</span>"
+msgid_plural "Refunded <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/payments/escrow/order-escrow-class.php:96
+msgid "Pending (Waiting for Funds)"
+msgstr ""
+
+#: includes/payments/escrow/order-escrow-class.php:97
+#: includes/payments/gateways/paypal/paypal.php:203
+#: includes/payments/order-class.php:666
+msgid "Failed"
+msgstr ""
+
+#: includes/payments/escrow/order-escrow-class.php:98
+msgid "Paid (Funds in Escrow)"
+msgstr ""
+
+#: includes/payments/escrow/order-escrow-class.php:99
+msgid "Refunded"
+msgstr ""
+
+#: includes/payments/escrow/order-escrow-class.php:100
+#: includes/payments/gateways/paypal/paypal.php:200
+#: includes/payments/order-class.php:667 includes/sorting.php:517
+msgid "Completed"
+msgstr ""
+
+#: includes/payments/escrow/order-escrow-factory.php:23
+#: includes/payments/order-draft-class.php:49
+#: includes/payments/order-factory.php:36
+msgid "Transaction"
+msgstr ""
+
+#: includes/payments/escrow/order-escrow-factory.php:28
+#: includes/payments/order-factory.php:41
+msgid "Transaction Data"
+msgstr ""
+
+#: includes/payments/gateways/bank-transfer/bank-transfer.php:26
+#: includes/payments/gateways/bank-transfer/bank-transfer.php:27
+#: includes/payments/gateways/bank-transfer/bt-admin.php:10
+#: includes/payments/gateways/bank-transfer/template/order-bank-transfer.php:16
+msgid "Bank Transfer"
+msgstr ""
+
+#: includes/payments/gateways/bank-transfer/bank-transfer.php:44
+msgid ""
+"This content will be displayed once checkout has been completed. It will be "
+"up to the purchaser to follow the instructions."
+msgstr ""
+
+#: includes/payments/gateways/bank-transfer/bt-admin.php:33
+msgid ""
+"You must mark this transfer as completed before the purchase can proceed."
+msgstr ""
+
+#: includes/payments/gateways/bank-transfer/bt-emails.php:11
+msgid ""
+"A new order is waiting to be processed. Once you receive payment, you should "
+"mark the order as completed."
+msgstr ""
+
+#: includes/payments/gateways/bank-transfer/bt-emails.php:13
+msgid "Review this order"
+msgstr ""
+
+#: includes/payments/gateways/bank-transfer/bt-emails.php:17
+msgid "review all pending orders"
+msgstr ""
+
+#. translators: <Single Order Link> or <Link to All Orders>
+#: includes/payments/gateways/bank-transfer/bt-emails.php:20
+msgid "%1$s or %2$s"
+msgstr ""
+
+#: includes/payments/gateways/bank-transfer/bt-emails.php:24
+msgid "[%1$s] Pending Order #%2$d"
+msgstr ""
+
+#: includes/payments/gateways/bank-transfer/template/order-bank-transfer.php:19
+msgid "Instructions:"
+msgstr ""
+
+#: includes/payments/gateways/bank-transfer/template/order-bank-transfer.php:26
+msgid "Order Information:"
+msgstr ""
+
+#: includes/payments/gateways/bank-transfer/template/order-bank-transfer.php:30
+msgid "Order Total:"
+msgstr ""
+
+#: includes/payments/gateways/bank-transfer/template/order-bank-transfer.php:33
+msgid "For questions or problems, please contact us directly at"
+msgstr ""
+
+#: includes/payments/gateways/bank-transfer/template/order-bank-transfer.php:36
+msgid ""
+"To cancel this request and use a regular gateway instead, <a href=\"%s"
+"\">click here</a>."
+msgstr ""
+
+#: includes/payments/gateways/boomerang-class.php:52
+msgid "You are now being redirected."
+msgstr ""
+
+#: includes/payments/gateways/gateway-functions.php:103
+msgid ""
+"No payment gateways are available. Please contact your site administrator"
+msgstr ""
+
+#: includes/payments/gateways/paypal/paypal-form.php:134
+msgid "Your Order is still being processed. Please wait a few seconds..."
+msgstr ""
+
+#: includes/payments/gateways/paypal/paypal-form.php:135
+msgid ""
+"If your Order does not complete soon, please contact us and refer to your "
+"Order ID - #%d."
+msgstr ""
+
+#: includes/payments/gateways/paypal/paypal.php:39
+#: includes/payments/gateways/paypal/paypal.php:40
+msgid "PayPal"
+msgstr ""
+
+#: includes/payments/gateways/paypal/paypal.php:76
+msgid ""
+"PayPal has responded to your transaction as invalid. Please contact site "
+"owner."
+msgstr ""
+
+#: includes/payments/gateways/paypal/paypal.php:132
+msgid ""
+"Complete the fields below so you can start accepting payments via PayPal."
+msgstr ""
+
+#: includes/payments/gateways/paypal/paypal.php:136
+msgid ""
+"Enter your PayPal account email address. This is where your money gets sent."
+msgstr ""
+
+#: includes/payments/gateways/paypal/paypal.php:141
+msgid "Account Type"
+msgstr ""
+
+#: includes/payments/gateways/paypal/paypal.php:142
+msgid "I have a Premier or Business account"
+msgstr ""
+
+#: includes/payments/gateways/paypal/paypal.php:143
+msgid ""
+"Having a Premier or Business account is recommended and required for "
+"recurring payments. <a target=\"_new\" href=\"%s\">Learn more</a> about the "
+"account type differences."
+msgstr ""
+
+#: includes/payments/gateways/paypal/paypal.php:148
+msgid "Sandbox Mode"
+msgstr ""
+
+#: includes/payments/gateways/paypal/paypal.php:149
+msgid "Enable sandbox mode so I can test PayPal"
+msgstr ""
+
+#: includes/payments/gateways/paypal/paypal.php:150
+msgid ""
+"A <a target='_blank' href='%s'>PayPal Sandbox</a> account is required to use "
+"this feature. Enabling this allows you to confirm that payments are being "
+"processed correctly. Make sure to disable this option once you're done "
+"testing."
+msgstr ""
+
+#: includes/payments/gateways/paypal/paypal.php:158
+msgid "Payment Data Transfer (PDT)"
+msgstr ""
+
+#: includes/payments/gateways/paypal/paypal.php:159
+msgid ""
+"PDT sends a transaction notice back to your website so you can display order-"
+"related details on your completed purchase page. <a target=\"_blank\" href="
+"\"%s\">Learn more.</a>"
+msgstr ""
+
+#: includes/payments/gateways/paypal/paypal.php:162
+msgid "PDT System"
+msgstr ""
+
+#: includes/payments/gateways/paypal/paypal.php:163
+msgid "Enable Payment Data Transfer (PDT)"
+msgstr ""
+
+#: includes/payments/gateways/paypal/paypal.php:164
+msgid ""
+"Make sure you understand the <a target=\"_blank\" href=\"%s\">benefits and "
+"limitations</a> of PDT before you enable this feature. See our <a target="
+"\"_blank\" href=\"%s\">tutorial</a> on enabling PDT."
+msgstr ""
+
+#: includes/payments/gateways/paypal/paypal.php:169
+msgid "Identity Token"
+msgstr ""
+
+#: includes/payments/gateways/paypal/paypal.php:172
+msgid "Enter your unique PDT identity token"
+msgstr ""
+
+#: includes/payments/gateways/paypal/paypal.php:173
+msgid ""
+"This will be provided after you activate PDT from within your PayPal account."
+msgstr ""
+
+#: includes/payments/gateways/paypal/paypal.php:179
+msgid "Instant Payment Notification (IPN)"
+msgstr ""
+
+#: includes/payments/gateways/paypal/paypal.php:180
+msgid ""
+"IPN is a messaging service that automatically notifies your website of "
+"events related to transactions. <a target=\"_blank\" href=\"%s\">Learn more."
+"</a>"
+msgstr ""
+
+#: includes/payments/gateways/paypal/paypal.php:183
+msgid "IPN System"
+msgstr ""
+
+#: includes/payments/gateways/paypal/paypal.php:186
+msgid "Enable Instant Payment Notification (IPN)"
+msgstr ""
+
+#: includes/payments/gateways/paypal/paypal.php:187
+msgid ""
+"Make sure you understand the <a target=\"_blank\" href=\"%s\">benefits and "
+"limitations</a> of IPN before you enable this feature. If any of your "
+"payment plans use recurring payments, this option must be checked. See our "
+"<a target=\"_blank\" href=\"%s\">tutorial</a> on enabling IPN."
+msgstr ""
+
+#: includes/payments/gateways/paypal/paypal.php:196
+msgid "Notify me when a payment is.."
+msgstr ""
+
+#: includes/payments/gateways/paypal/paypal.php:201
+msgid "Reversed"
+msgstr ""
+
+#: includes/payments/gateways/paypal/paypal.php:202
+msgid "Denied"
+msgstr ""
+
+#: includes/payments/gateways/paypal/paypal.php:204
+msgid "Voided"
+msgstr ""
+
+#: includes/payments/order-class.php:665
+msgid "Pending"
+msgstr ""
+
+#: includes/payments/order-class.php:668
+msgid "Activated"
+msgstr ""
+
+#: includes/payments/order-functions.php:44
+msgid "Add New Order"
+msgstr ""
+
+#: includes/payments/order-functions.php:45
+msgid "Edit Order"
+msgstr ""
+
+#: includes/payments/order-functions.php:46
+msgid "New Order"
+msgstr ""
+
+#: includes/payments/order-functions.php:47
+msgid "View Order"
+msgstr ""
+
+#: includes/payments/order-functions.php:48
+msgid "Search Orders"
+msgstr ""
+
+#: includes/payments/order-functions.php:49
+msgid "No orders found"
+msgstr ""
+
+#: includes/payments/order-functions.php:50
+msgid "No orders found in Trash"
+msgstr ""
+
+#: includes/payments/order-functions.php:51
+msgid "Parent Order:"
+msgstr ""
+
+#: includes/payments/order-functions.php:66
+msgid "Pending <span class=\"count\">(%s)</span>"
+msgid_plural "Pending <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/payments/order-functions.php:67
+msgid "Failed <span class=\"count\">(%s)</span>"
+msgid_plural "Failed <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/payments/order-functions.php:68
+msgid "Completed <span class=\"count\">(%s)</span>"
+msgid_plural "Completed <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/payments/order-functions.php:69
+msgid "Activated <span class=\"count\">(%s)</span>"
+msgid_plural "Activated <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/payments/order-functions.php:100
+msgid "Regional Taxes"
+msgstr ""
+
+#: includes/payments/order-functions.php:263
+msgid "year"
+msgid_plural "years"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/payments/order-functions.php:267
+msgid "week"
+msgid_plural "weeks"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/payments/order-functions.php:271
+msgid "month"
+msgid_plural "months"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/payments/order-functions.php:276 includes/template-tags.php:525
+msgid "day"
+msgid_plural "days"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/payments/utils/currencies.php:30
+msgid "US Dollars"
+msgstr ""
+
+#: includes/payments/utils/currencies.php:34
+msgid "Euros"
+msgstr ""
+
+#: includes/payments/utils/currencies.php:38
+msgid "Pounds Sterling"
+msgstr ""
+
+#: includes/payments/utils/currencies.php:42
+msgid "Australian Dollars"
+msgstr ""
+
+#: includes/payments/utils/currencies.php:46
+msgid "Brazilian Real"
+msgstr ""
+
+#: includes/payments/utils/currencies.php:50
+msgid "Canadian Dollars"
+msgstr ""
+
+#: includes/payments/utils/currencies.php:54
+msgid "Czech Koruna"
+msgstr ""
+
+#: includes/payments/utils/currencies.php:58
+msgid "Danish Krone"
+msgstr ""
+
+#: includes/payments/utils/currencies.php:62
+msgid "Hong Kong Dollar"
+msgstr ""
+
+#: includes/payments/utils/currencies.php:66
+msgid "Hungarian Forint"
+msgstr ""
+
+#: includes/payments/utils/currencies.php:70
+msgid "Israeli Shekel"
+msgstr ""
+
+#: includes/payments/utils/currencies.php:74
+msgid "Japanese Yen"
+msgstr ""
+
+#: includes/payments/utils/currencies.php:78
+msgid "Malaysian Ringgits"
+msgstr ""
+
+#: includes/payments/utils/currencies.php:82
+msgid "Mexican Peso"
+msgstr ""
+
+#: includes/payments/utils/currencies.php:86
+msgid "New Zealand Dollar"
+msgstr ""
+
+#: includes/payments/utils/currencies.php:90
+msgid "Norwegian Krone"
+msgstr ""
+
+#: includes/payments/utils/currencies.php:94
+msgid "Philippine Pesos"
+msgstr ""
+
+#: includes/payments/utils/currencies.php:98
+msgid "Polish Zloty"
+msgstr ""
+
+#: includes/payments/utils/currencies.php:102
+msgid "Russian Ruble"
+msgstr ""
+
+#: includes/payments/utils/currencies.php:106
+msgid "Singapore Dollar"
+msgstr ""
+
+#: includes/payments/utils/currencies.php:110
+msgid "Swedish Krona"
+msgstr ""
+
+#: includes/payments/utils/currencies.php:114
+msgid "Swiss Franc"
+msgstr ""
+
+#: includes/payments/utils/currencies.php:118
+msgid "Taiwan New Dollar"
+msgstr ""
+
+#: includes/payments/utils/currencies.php:122
+msgid "Thai Baht"
+msgstr ""
+
+#: includes/payments/utils/currencies.php:126
+msgid "Turkish Lira"
+msgstr ""
+
+#: includes/plans/admin.php:16
+msgid "Pricing Details"
+msgstr ""
+
+#: includes/plans/admin.php:31
+msgid "Plan Name"
+msgstr ""
+
+#: includes/plans/admin.php:49
+msgid "Example: %s "
+msgstr ""
+
+#: includes/plans/admin.php:56
+msgid "Listing Duration"
+msgstr ""
+
+#: includes/plans/admin.php:59
+msgid "days ( 0 = Infinite )"
+msgstr ""
+
+#: includes/plans/admin.php:99 includes/plans/admin.php:100
+msgid "Plan updated."
+msgstr ""
+
+#: includes/plans/admin.php:101
+msgid "Plan created."
+msgstr ""
+
+#: includes/plans/admin.php:102
+msgid "Plan saved."
+msgstr ""
+
+#: includes/plans/admin.php:103
+msgid "Plan scheduled."
+msgstr ""
+
+#: includes/plans/admin.php:104
+msgid "Plan draft updated."
+msgstr ""
+
+#: includes/plans/admin.php:117
+msgid "Featured Addons"
+msgstr ""
+
+#: includes/plans/admin.php:136
+msgid "Included"
+msgstr ""
+
+#: includes/plans/admin.php:199
+msgid ""
+"You can include featured addons in a plan. These will be immediately added "
+"to the listing upon purchase. After they run out, the customer can then "
+"purchase regular featured addons."
+msgstr ""
+
+#: includes/plans/admin.php:204
+msgid "Durations must be shorter than the listing duration."
+msgstr ""
+
+#: includes/plans/plans.php:25 includes/plans/plans.php:26
+#: includes/plans/plans.php:36
+msgid "Plans"
+msgstr ""
+
+#: includes/plans/plans.php:28
+msgid "Add New Plan"
+msgstr ""
+
+#: includes/plans/plans.php:29
+msgid "Edit Plan"
+msgstr ""
+
+#: includes/plans/plans.php:30
+msgid "New Plan"
+msgstr ""
+
+#: includes/plans/plans.php:31
+msgid "View Plan"
+msgstr ""
+
+#: includes/plans/plans.php:32
+msgid "Search Plans"
+msgstr ""
+
+#: includes/plans/plans.php:33
+msgid "No Plans found"
+msgstr ""
+
+#: includes/plans/plans.php:34
+msgid "No Plans found in Trash"
+msgstr ""
+
+#: includes/plans/plans.php:35
+msgid "Parent Plan:"
+msgstr ""
+
+#: includes/profile.php:75
+msgid "Email Notifications Settings"
+msgstr ""
+
+#: includes/profile.php:82
+msgid "You have created a new service"
+msgstr ""
+
+#: includes/profile.php:83
+msgid "Your Service listing has been approved"
+msgstr ""
+
+#: includes/profile.php:84
+msgid "Your Service listing has expired"
+msgstr ""
+
+#: includes/profile.php:85
+msgid "You have sent a new review"
+msgstr ""
+
+#: includes/profile.php:86
+msgid "A user has ordered your service"
+msgstr ""
+
+#: includes/profile.php:87
+msgid "You have ordered a new service"
+msgstr ""
+
+#: includes/profile.php:88
+msgid "You have marked a task as Paid"
+msgstr ""
+
+#: includes/profile.php:89
+msgid "Service provider has marked a task as Paid"
+msgstr ""
+
+#: includes/profile.php:90
+msgid "You have marked a task as Unpaid"
+msgstr ""
+
+#: includes/profile.php:91
+msgid "Service provider has marked a task as Unpaid"
+msgstr ""
+
+#: includes/profile.php:92
+msgid "You have marked a task as Completed"
+msgstr ""
+
+#: includes/profile.php:93
+msgid "Service provider has marked a task as Completed"
+msgstr ""
+
+#: includes/profile.php:94
+msgid "You have marked a task as Uncompleted"
+msgstr ""
+
+#: includes/profile.php:95
+msgid "Service provider has marked a task as Uncompleted"
+msgstr ""
+
+#: includes/profile.php:96
+msgid "User has marked a task as Confirmed"
+msgstr ""
+
+#: includes/profile.php:97
+msgid "You have marked a task as Confirmed"
+msgstr ""
+
+#: includes/profile.php:98
+msgid "User has marked a task as Unconfirmed"
+msgstr ""
+
+#: includes/profile.php:99
+msgid "You have marked a task as Unconfirmed"
+msgstr ""
+
+#: includes/profile.php:104
+msgid "Receive email notifications:"
+msgstr ""
+
+#: includes/profile.php:109
+msgid ""
+"You can enable or disable email notifications for the following actions."
+msgstr ""
+
+#: includes/reviews/admin/admin.php:33 includes/reviews/admin/admin.php:63
+#: includes/sorting.php:717 includes/views.php:849 includes/views.php:1105
+#: single-service.php:126
+msgid "Reviews"
+msgstr ""
+
+#: includes/reviews/admin/settings.php:17
+#: includes/reviews/admin/settings.php:18
+msgid "Reviews Settings"
+msgstr ""
+
+#: includes/reviews/admin/settings.php:45
+msgid "Reviews Notifications"
+msgstr ""
+
+#: includes/reviews/admin/settings.php:48
+msgid "New Reviews"
+msgstr ""
+
+#: includes/reviews/admin/settings.php:52
+msgid "Notify admin on new reviews?"
+msgstr ""
+
+#: includes/reviews/review-enqueue.php:38
+msgid "bad"
+msgstr ""
+
+#: includes/reviews/review-enqueue.php:39
+msgid "poor"
+msgstr ""
+
+#: includes/reviews/review-enqueue.php:40
+msgid "regular"
+msgstr ""
+
+#: includes/reviews/review-enqueue.php:41
+msgid "good"
+msgstr ""
+
+#: includes/reviews/review-enqueue.php:42
+msgid "excellent"
+msgstr ""
+
+#: includes/reviews/review-notify-class.php:102
+msgid "[%1$s] New review on \"%2$s\""
+msgstr ""
+
+#: includes/reviews/review-notify-class.php:150
+msgid "Hi %s,"
+msgstr ""
+
+#: includes/reviews/review-notify-class.php:152
+msgid "A new review has been submitted on \"%1$s\" by %2$s."
+msgstr ""
+
+#: includes/reviews/review-notify-class.php:154
+msgid "Rating: %1$s/%2$s"
+msgstr ""
+
+#: includes/reviews/review-notify-class.php:158
+msgid "Review link"
+msgstr ""
+
+#: includes/reviews/review-notify-class.php:163
+msgid "Trash it: %s"
+msgstr ""
+
+#: includes/reviews/review-notify-class.php:165
+msgid "Delete it: %s"
+msgstr ""
+
+#: includes/reviews/review-notify-class.php:168
+msgid "Spam it: %s"
+msgstr ""
+
+#: includes/search-index/class-search-index.php:24
+#: includes/search-index/class-search-index.php:25
+msgid "Search Index Updater"
+msgstr ""
+
+#: includes/search-index/class-search-index.php:62
+#: includes/search-index/class-search-index.php:78
+msgid "Search Index"
+msgstr ""
+
+#: includes/search-index/class-search-index.php:74
+msgid "Built"
+msgstr ""
+
+#: includes/search-index/class-search-index.php:83
+msgid ""
+"You are about to completely delete the search index. Are you sure you want "
+"to proceed?"
+msgstr ""
+
+#: includes/search-index/class-search-index.php:85
+msgid "Delete Search Index"
+msgstr ""
+
+#: includes/search-index/class-search-index.php:86
+msgid "Flush out your index. You can always rebuild it again."
+msgstr ""
+
+#: includes/search-index/class-search-index.php:100
+msgid "The search index is being built..."
+msgstr ""
+
+#: includes/search-index/class-search-index.php:108
+msgid "Build Speed"
+msgstr ""
+
+#: includes/search-index/class-search-index.php:112
+msgid "Slow"
+msgstr ""
+
+#: includes/search-index/class-search-index.php:113
+msgid "Medium"
+msgstr ""
+
+#: includes/search-index/class-search-index.php:114
+msgid "Fast"
+msgstr ""
+
+#: includes/search-index/class-search-index.php:117
+msgid "If you're not on a dedicated server, use the slow or medium option."
+msgstr ""
+
+#: includes/search-index/class-search-index.php:126
+msgid "Create Search Index"
+msgstr ""
+
+#: includes/search-index/class-search-index.php:188
+msgid "Sorry, only post method allowed"
+msgstr ""
+
+#: includes/search-index/class-search-index.php:192
+msgid "Sorry, invalid request"
+msgstr ""
+
+#: includes/search-index/class-search-index.php:196
+msgid "The search index has been built"
+msgstr ""
+
+#: includes/search-index/class-search-index.php:203
+msgid "This has already run"
+msgstr ""
+
+#: includes/search-index/search-index.php:80
+msgid "Search Index Update Progress: %g%s complete."
+msgstr ""
+
+#: includes/service-status.php:21
+msgctxt "service"
+msgid "Expired"
+msgstr ""
+
+#: includes/service-status.php:27
+msgid "Expired <span class=\"count\">(%s)</span>"
+msgid_plural "Expired <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/service-status.php:31
+msgctxt "service"
+msgid "Deleted"
+msgstr ""
+
+#: includes/social.php:151 theme-framework/kernel/social.php:117
+msgid "Google+"
+msgstr ""
+
+#: includes/social.php:155
+msgid ""
+"Enter your Google+ ID here. The URL will look like this: %s where the number "
+"is your ID."
+msgstr ""
+
+#: includes/social.php:161
+msgid "Tumblr"
+msgstr ""
+
+#: includes/sorting.php:101
+msgid "..."
+msgstr ""
+
+#: includes/sorting.php:212 includes/sorting.php:416 includes/sorting.php:454
+#: includes/sorting.php:581 includes/sorting.php:732
+msgid "Sort By"
+msgstr ""
+
+#: includes/sorting.php:253 includes/sorting.php:428 includes/sorting.php:466
+#: includes/sorting.php:591
+msgid "Order by Date"
+msgstr ""
+
+#: includes/sorting.php:261 includes/sorting.php:606
+msgid "Order by Rating"
+msgstr ""
+
+#: includes/sorting.php:269
+msgid "Order by Price"
+msgstr ""
+
+#: includes/sorting.php:341 includes/sorting.php:492
+msgid "Filter By"
+msgstr ""
+
+#: includes/sorting.php:348 includes/sorting.php:499 includes/sorting.php:634
+msgid "No filter"
+msgstr ""
+
+#: includes/sorting.php:349
+msgid "Display all services"
+msgstr ""
+
+#: includes/sorting.php:362
+msgid "Reviewed"
+msgstr ""
+
+#: includes/sorting.php:363
+msgid "Display only reviewed services"
+msgstr ""
+
+#: includes/sorting.php:375
+msgid "Unreviewed"
+msgstr ""
+
+#: includes/sorting.php:376
+msgid "Display only unreviewed services"
+msgstr ""
+
+#: includes/sorting.php:382
+msgid "Live"
+msgstr ""
+
+#: includes/sorting.php:383
+msgid "Display only live services"
+msgstr ""
+
+#: includes/sorting.php:389
+msgid "Awaiting Moderation"
+msgstr ""
+
+#: includes/sorting.php:390
+msgid "Display awaiting moderation services"
+msgstr ""
+
+#: includes/sorting.php:396 includes/task-actions-button.php:145
+msgid "Pending Payment"
+msgstr ""
+
+#: includes/sorting.php:397
+msgid "Display panding payments services"
+msgstr ""
+
+#: includes/sorting.php:403
+msgid "Expired"
+msgstr ""
+
+#: includes/sorting.php:404
+msgid "Display only expired services"
+msgstr ""
+
+#: includes/sorting.php:436
+msgid "Order by Buyer Name"
+msgstr ""
+
+#: includes/sorting.php:473
+msgid "Provider"
+msgstr ""
+
+#: includes/sorting.php:474
+msgid "Order by Service Provider"
+msgstr ""
+
+#: includes/sorting.php:500
+msgid "Display all tasks"
+msgstr ""
+
+#: includes/sorting.php:508
+msgid "Confirmed"
+msgstr ""
+
+#: includes/sorting.php:509
+msgid "Display only confirmed tasks"
+msgstr ""
+
+#: includes/sorting.php:518
+msgid "Display only completed tasks"
+msgstr ""
+
+#: includes/sorting.php:535
+msgid "Incomplete"
+msgstr ""
+
+#: includes/sorting.php:536
+msgid "Display only incompleted tasks"
+msgstr ""
+
+#: includes/sorting.php:544
+msgid "Paid"
+msgstr ""
+
+#: includes/sorting.php:545
+msgid "Display only paid tasks"
+msgstr ""
+
+#: includes/sorting.php:567
+msgid "Unpaid"
+msgstr ""
+
+#: includes/sorting.php:568
+msgid "Display only unpaid tasks"
+msgstr ""
+
+#: includes/sorting.php:597
+msgid "Reviewer"
+msgstr ""
+
+#: includes/sorting.php:598
+msgid "Order by Reviewer Name"
+msgstr ""
+
+#: includes/sorting.php:613
+msgid "Order by Service"
+msgstr ""
+
+#: includes/sorting.php:625
+msgid "Rated"
+msgstr ""
+
+#: includes/sorting.php:635
+msgid "Display all reviews"
+msgstr ""
+
+#: includes/sorting.php:644
+msgid "1 Star"
+msgid_plural "%s Stars"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/sorting.php:645
+msgid "Display only reviews with 1 Star"
+msgid_plural "Display only reviews with %s Stars"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/sorting.php:659
+msgid "No Stars"
+msgstr ""
+
+#: includes/sorting.php:660
+msgid "Display only reviews without Stars"
+msgstr ""
+
+#: includes/sorting.php:690
+msgid "All"
+msgstr ""
+
+#: includes/sorting.php:691
+msgid "Display all notifications"
+msgstr ""
+
+#: includes/sorting.php:701
+msgid "Display only notifications with type \"%s\""
+msgstr ""
+
+#: includes/sorting.php:714
+msgid "Notification"
+msgstr ""
+
+#: includes/sorting.php:716
+msgid "Action Required"
+msgstr ""
+
+#: includes/sorting.php:741
+msgid "Newest"
+msgstr ""
+
+#: includes/sorting.php:742
+msgid "Display newest notifications first"
+msgstr ""
+
+#: includes/sorting.php:748
+msgid "Oldest"
+msgstr ""
+
+#: includes/sorting.php:749
+msgid "Display oldest notifications first"
+msgstr ""
+
+#: includes/task-actions-button.php:148
+msgid "Payment Received"
+msgstr ""
+
+#: includes/task-actions-button.php:151
+msgid "Task Completed"
+msgstr ""
+
+#: includes/task-actions-button.php:154
+msgid "Task Confirmed"
+msgstr ""
+
+#: includes/task-actions-button.php:168
+msgid "Mark as Paid"
+msgstr ""
+
+#: includes/task-actions-button.php:173
+msgid "Mark as Unpaid"
+msgstr ""
+
+#: includes/task-actions-button.php:181
+msgid "Mark as Uncompleted"
+msgstr ""
+
+#: includes/task-actions-button.php:184
+msgid "Mark as Confirmed"
+msgstr ""
+
+#: includes/task-actions-button.php:189
+msgid "Mark as Unconfirmed"
+msgstr ""
+
+#: includes/template-tags.php:604
+msgid "Add a Review"
+msgstr ""
+
+#: includes/template-tags.php:614
+msgid "Buy it for"
+msgstr ""
+
+#: includes/template-tags.php:617
+msgid "Cost of service"
+msgstr ""
+
+#: includes/template-tags.php:625
+msgid "Buy"
+msgstr ""
+
+#: includes/template-tags.php:665
+msgid "Cheapest %s"
+msgstr ""
+
+#: includes/template-tags.php:665
+msgid "Most Expensive %s"
+msgstr ""
+
+#: includes/template-tags.php:668
+msgid "Lowest Rated %s"
+msgstr ""
+
+#: includes/template-tags.php:668
+msgid "Highest Rated %s"
+msgstr ""
+
+#: includes/template-tags.php:671
+msgid "Oldest %s"
+msgstr ""
+
+#: includes/template-tags.php:671
+msgid "Latest %s"
+msgstr ""
+
+#: includes/template-tags.php:719
+msgid "Edit This"
+msgstr ""
+
+#: includes/template-tags.php:750 loop-header.php:52
+msgid "Images"
+msgstr ""
+
+#: includes/template-tags.php:751
+msgid "Add Images"
+msgstr ""
+
+#: includes/template-tags.php:752
+msgid "Manage Images"
+msgstr ""
+
+#: includes/template-tags.php:753
+msgid "No images added yet"
+msgstr ""
+
+#: includes/template-tags.php:775 loop-header.php:55
+msgid "Videos"
+msgstr ""
+
+#: includes/template-tags.php:776
+msgid "Add Videos"
+msgstr ""
+
+#: includes/template-tags.php:777
+msgid "Manage Videos"
+msgstr ""
+
+#: includes/template-tags.php:778
+msgid "No videos added yet"
+msgstr ""
+
+#: includes/template-tags.php:800
+msgid "Embeds"
+msgstr ""
+
+#: includes/template-tags.php:801
+msgid "Embed Media"
+msgstr ""
+
+#: includes/template-tags.php:802
+msgid "Manage Embeds"
+msgstr ""
+
+#: includes/template-tags.php:803
+msgid "No media embedded yet"
+msgstr ""
+
+#: includes/template-tags.php:1016
+msgid "More Services from %s"
+msgstr ""
+
+#: includes/views-checkout.php:62
+msgid "Select a Plan"
+msgstr ""
+
+#: includes/views-checkout.php:91
+msgid "No plan was chosen."
+msgstr ""
+
+#: includes/views-checkout.php:97
+msgid "The plan you choose no longer exists."
+msgstr ""
+
+#: includes/views-checkout.php:135
+msgid "Save Service"
+msgstr ""
+
+#: includes/views-checkout.php:143 includes/views-checkout.php:411
+msgid "Edit Service Details"
+msgstr ""
+
+#: includes/views-checkout.php:163
+msgid "No title was submitted"
+msgstr ""
+
+#: includes/views-checkout.php:164
+msgid "No content was submtited"
+msgstr ""
+
+#: includes/views-checkout.php:165
+msgid "No delivery time was submitted"
+msgstr ""
+
+#: includes/views-checkout.php:166
+msgid "No price was submitted"
+msgstr ""
+
+#: includes/views-checkout.php:228
+msgid "No category was submitted."
+msgstr ""
+
+#: includes/views-checkout.php:317
+msgid "Next Step"
+msgstr ""
+
+#: includes/views-checkout.php:328
+msgid "Add Service Details"
+msgstr ""
+
+#: includes/views-checkout.php:477
+msgid "Select Gateway"
+msgstr ""
+
+#: includes/views-checkout.php:523
+msgid "Order Process"
+msgstr ""
+
+#: includes/views-checkout.php:634
+msgid "%post_type%: %post_title% - %plan_title%"
+msgstr ""
+
+#: includes/views-checkout.php:636
+msgid "%post_type%: %post_title%"
+msgstr ""
+
+#: includes/views-checkout.php:721
+msgid " %s is included in this plan for Unlimited days."
+msgstr ""
+
+#: includes/views-checkout.php:723
+msgid "%s is included in this plan for %s day."
+msgid_plural "%s is included in this plan for %s days."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/views-checkout.php:730
+msgid " %s for Unlimited days for only %s more."
+msgstr ""
+
+#: includes/views-checkout.php:732
+msgid " %s for %d days for only %s more."
+msgstr ""
+
+#: includes/views-review.php:31
+msgid "Submit Review"
+msgstr ""
+
+#: includes/views-task.php:24
+msgid "Confirm Purchase"
+msgstr ""
+
+#: includes/views-task.php:32
+msgid "Create a Task"
+msgstr ""
+
+#: includes/views-task.php:78
+msgid "Task Summary"
+msgstr ""
+
+#: includes/views.php:54
+msgid "Add Service"
+msgstr ""
+
+#: includes/views.php:64
+msgid "You must first login to add a service."
+msgstr ""
+
+#: includes/views.php:65
+msgid "You must first login or <a href=\"%s\">register</a> to add a service."
+msgstr ""
+
+#: includes/views.php:103 includes/views.php:240 includes/views.php:356
+msgid "Clear"
+msgstr ""
+
+#: includes/views.php:167 includes/views.php:279
+msgid "You do not have permission to edit that service"
+msgstr ""
+
+#: includes/views.php:223
+msgid "Edit \"%s\""
+msgstr ""
+
+#: includes/views.php:339
+msgid "Renew \"%s\""
+msgstr ""
+
+#: includes/views.php:397
+msgid "You do not have permission to order that service"
+msgstr ""
+
+#: includes/views.php:436
+msgid "Order \"%s\""
+msgstr ""
+
+#: includes/views.php:502
+msgid "You do not have permission to review this service."
+msgstr ""
+
+#: includes/views.php:558
+msgid "Review \"%s\""
+msgstr ""
+
+#. #-#-#-#-#  taskerr.pot (Taskerr 1.3.1)  #-#-#-#-#
+#. Template Name of the plugin/theme
+#: includes/views.php:574 theme-framework/kernel/breadcrumb-trail.php:179
+msgid "Home"
+msgstr ""
+
+#: includes/views.php:630
+msgid "Blog"
+msgstr ""
+
+#: includes/views.php:756
+msgid "Purchased"
+msgstr ""
+
+#: includes/views.php:899 includes/views.php:1039
+msgid "There was an error. Please try again."
+msgstr ""
+
+#: includes/views.php:910
+msgid "Cannot delete review, it belongs to another user."
+msgstr ""
+
+#: includes/views.php:919
+msgid "Review deleted."
+msgstr ""
+
+#: includes/views.php:939 top-bar.php:43 top-bar.php:45
+msgid "Favorites"
+msgstr ""
+
+#: includes/views.php:1047
+msgid "Some notifications could not be deleted."
+msgstr ""
+
+#: includes/views.php:1051
+msgid "Selected notifications were deleted"
+msgstr ""
+
+#: includes/views.php:1098
+msgid "Current Services"
+msgstr ""
+
+#: includes/views.php:1114
+msgid "Blog Posts"
+msgstr ""
+
+#: includes/widgets/widget-125-ads.php:15
+msgid "AppThemes 125x125 Ads"
+msgstr ""
+
+#: includes/widgets/widget-125-ads.php:17
+msgid "Sponsored Ads"
+msgstr ""
+
+#: includes/widgets/widget-125-ads.php:29
+msgid "Places an ad space in the sidebar for 125x125 ads"
+msgstr ""
+
+#: includes/widgets/widget-125-ads.php:89
+msgid "Ads:"
+msgstr ""
+
+#: includes/widgets/widget-125-ads.php:94
+msgid "Open ads in a new window?:"
+msgstr ""
+
+#: includes/widgets/widget-125-ads.php:112
+msgid "Enter one ad entry per line in the following format:"
+msgstr ""
+
+#: includes/widgets/widget-125-ads.php:112
+msgid "URL|Image URL|Image Alt Text|rel"
+msgstr ""
+
+#: includes/widgets/widget-125-ads.php:113
+msgid ""
+"<strong>Note:</strong> You must hit your &quot;enter/return&quot; key after "
+"each ad entry otherwise the ads will not display properly."
+msgstr ""
+
+#: includes/widgets/widget-breadcrumbs.php:13
+msgid "AppThemes Breadcrumbs"
+msgstr ""
+
+#: includes/widgets/widget-breadcrumbs.php:36
+msgid "Displays the Breadcrumbs"
+msgstr ""
+
+#: includes/widgets/widget-breadcrumbs.php:66
+msgid "Crumbs Separator:"
+msgstr ""
+
+#: includes/widgets/widget-breadcrumbs.php:71
+msgid "Network"
+msgstr ""
+
+#: includes/widgets/widget-breadcrumbs.php:76
+msgid "Show Title"
+msgstr ""
+
+#: includes/widgets/widget-breadcrumbs.php:81
+msgid "Show Browse"
+msgstr ""
+
+#: includes/widgets/widget-facebook.php:15
+msgid "AppThemes Facebook Like Box"
+msgstr ""
+
+#: includes/widgets/widget-facebook.php:17
+msgid "Facebook Friends"
+msgstr ""
+
+#: includes/widgets/widget-facebook.php:29
+msgid ""
+"This places a Facebook page Like Box in your sidebar to attract and gain "
+"Likes from visitors."
+msgstr ""
+
+#: includes/widgets/widget-facebook.php:107
+msgid "Facebook Page ID (e.g: appthemes):"
+msgstr ""
+
+#: includes/widgets/widget-facebook.php:112
+msgid "Width (Min. is 180 & Max. is 500):"
+msgstr ""
+
+#: includes/widgets/widget-facebook.php:117
+msgid "Height (Min. is 70):"
+msgstr ""
+
+#: includes/widgets/widget-facebook.php:122
+msgid "Hide Cover Photo"
+msgstr ""
+
+#: includes/widgets/widget-facebook.php:127
+msgid "Show Friend's Faces"
+msgstr ""
+
+#: includes/widgets/widget-facebook.php:132
+msgid "Show Page Posts"
+msgstr ""
+
+#: includes/widgets/widget-facebook.php:137
+msgid "Hide Custom Call to Action Button (if available)"
+msgstr ""
+
+#: includes/widgets/widget-facebook.php:142
+msgid "Use Small Header"
+msgstr ""
+
+#: includes/widgets/widget-facebook.php:147
+msgid "Adapt to Container Width"
+msgstr ""
+
+#: includes/widgets/widget-recent-posts.php:45
+msgid "AppThemes Recent Posts"
+msgstr ""
+
+#: includes/widgets/widget-recent-posts.php:47
+msgid "Recent Posts"
+msgstr ""
+
+#: includes/widgets/widget-recent-posts.php:65
+msgid "Show recent posts any public types."
+msgstr ""
+
+#: includes/widgets/widget-recent-posts.php:105
+msgid "Select Post Type:"
+msgstr ""
+
+#: includes/widgets/widget-recent-posts.php:110
+msgid "Number of posts to show:"
+msgstr ""
+
+#: includes/widgets/widget-recent-posts.php:115
+msgid "Enter posts IDs delimited by comma:"
+msgstr ""
+
+#: includes/widgets/widget-recent-posts.php:120
+msgid "Posts content template name:"
+msgstr ""
+
+#: includes/widgets/widget-recent-posts.php:125
+msgid "Display only sticky posts (if post type supports):"
+msgstr ""
+
+#: includes/widgets/widget-recent-posts.php:130
+msgid "Display Rating (requires \"StarStruck\" plugin):"
+msgstr ""
+
+#: includes/widgets/widget-recent-posts.php:135
+msgid "Display \"Read More\" button:"
+msgstr ""
+
+#: includes/widgets/widget-recent-posts.php:140
+msgid "Display post date:"
+msgstr ""
+
+#: includes/widgets/widget-recent-posts.php:145
+msgid "Display post thumbnail:"
+msgstr ""
+
+#: includes/widgets/widget-social-connect.php:36
+msgid "AppThemes Social Connect"
+msgstr ""
+
+#: includes/widgets/widget-social-connect.php:38
+msgid "Social Connect"
+msgstr ""
+
+#: includes/widgets/widget-social-connect.php:46
+msgid "A set of icons to link to many social networks."
+msgstr ""
+
+#: includes/widgets/widget-social-connect.php:89
+msgid "Use descriptions as tooltips (hides descriptions)"
+msgstr ""
+
+#: includes/widgets/widget-social-connect.php:110
+msgid "Show %s button"
+msgstr ""
+
+#: includes/widgets/widget-social-connect.php:115
+msgid "%s URL"
+msgstr ""
+
+#: includes/widgets/widget-social-connect.php:120
+msgid "%s Description"
+msgstr ""
+
+#: includes/widgets/widget-taxonomy-list.php:13
+msgid "AppThemes Taxonomy List"
+msgstr ""
+
+#: includes/widgets/widget-taxonomy-list.php:15
+msgid "Taxonomy Terms"
+msgstr ""
+
+#: includes/widgets/widget-taxonomy-list.php:39
+msgid "Displays the list of selected taxonomy terms"
+msgstr ""
+
+#: includes/widgets/widget-taxonomy-list.php:82
+msgid "Select Taxonomy:"
+msgstr ""
+
+#: includes/widgets/widget-taxonomy-list.php:87
+msgid "Number of Columns:"
+msgstr ""
+
+#: includes/widgets/widget-taxonomy-list.php:92
+msgid "Menu Depth:"
+msgstr ""
+
+#: includes/widgets/widget-taxonomy-list.php:97
+msgid "Number of Sub Menus:"
+msgstr ""
+
+#: includes/widgets/widget-taxonomy-list.php:102
+msgid "Show Parent Count"
+msgstr ""
+
+#: includes/widgets/widget-taxonomy-list.php:107
+msgid "Show Childs Count"
+msgstr ""
+
+#: includes/widgets/widget-taxonomy-list.php:112
+msgid "Hide Empty"
+msgstr ""
+
+#: includes/widgets/widget-taxonomy-list.php:117
+msgid "Hide \"No categories\" text"
+msgstr ""
+
+#: includes/widgets/widget-taxonomy-list.php:122
+msgid "Show Only List of Childs on Taxonomy Acrhive"
+msgstr ""
+
+#: includes/widgets.php:19
+msgid "Taskerr Taxonomy List"
+msgstr ""
+
+#: includes/widgets.php:56
+msgid "Expand/Collapse"
+msgstr ""
+
+#: includes/widgets.php:85
+msgid "Taskerr 125x125 Ads"
+msgstr ""
+
+#: includes/widgets.php:119
+msgid "Taskerr Recent Posts"
+msgstr ""
+
+#: includes/widgets.php:135
+msgid "Display post excerpt:"
+msgstr ""
+
+#: loop-dashboard-notifications.php:46
+msgid "Delete Selected"
+msgstr ""
+
+#: loop-header.php:19
+msgid "Search"
+msgstr ""
+
+#: loop-header.php:40
+msgid "Day: %s"
+msgstr ""
+
+#: loop-header.php:43
+msgid "Month: %s"
+msgstr ""
+
+#: loop-header.php:46
+msgid "Year: %s"
+msgstr ""
+
+#: loop-header.php:49
+msgid "Asides"
+msgstr ""
+
+#: loop-header.php:58
+msgid "Quotes"
+msgstr ""
+
+#: loop-header.php:61
+msgid "Links"
+msgstr ""
+
+#: loop-header.php:65
+msgid "Latest "
+msgstr ""
+
+#: loop-header.php:67 theme-framework/kernel/breadcrumb-trail.php:183
+msgid "Archives"
+msgstr ""
+
+#: loop-header.php:78
+msgid "%s found for \"%s\" (%s)"
+msgstr ""
+
+#: loop-header.php:78 none.php:16 none.php:19 none.php:21
+msgid "Entries"
+msgstr ""
+
+#: loop-reviews.php:35
+msgid "about"
+msgstr ""
+
+#: loop-reviews.php:55
+msgid "There are no reviews yet."
+msgstr ""
+
+#: loop-top-bar-notifications.php:12
+msgid "Unread notifications"
+msgstr ""
+
+#: loop-top-bar-notifications.php:25
+msgid "See all"
+msgstr ""
+
+#: nav.php:15
+msgid "Navigation"
+msgstr ""
+
+#: none-dashboard.php:17
+msgid "You have no services at this time. "
+msgstr ""
+
+#: none-dashboard.php:17
+msgid "Click Here"
+msgstr ""
+
+#: none-dashboard.php:17
+msgid " to add a service now."
+msgstr ""
+
+#: none-dashboard.php:21
+msgid "You have no tasks at this time. "
+msgstr ""
+
+#: none-dashboard.php:25
+msgid "You have no purchases at this time. "
+msgstr ""
+
+#: none-dashboard.php:29
+msgid "You have no favorites at this time. "
+msgstr ""
+
+#: none-dashboard.php:33
+msgid "You have no reviews at this time. "
+msgstr ""
+
+#: none.php:16
+msgid "Sorry, no %s were found for \"%s\""
+msgstr ""
+
+#: none.php:19
+msgid "Sorry there are no %s for %s \"%s\""
+msgstr ""
+
+#: none.php:21
+msgid "Sorry there are no %s yet"
+msgstr ""
+
+#: none.php:24
+msgid "Sorry there is no such %s"
+msgstr ""
+
+#: none.php:26
+msgid "Sorry there is nothing yet"
+msgstr ""
+
+#: order-select.php:13
+msgid "Please select a method for processing your payment:"
+msgstr ""
+
+#: purchase-service-new.php:26
+msgid "for %s day"
+msgid_plural "for %s days"
+msgstr[0] ""
+msgstr[1] ""
+
+#: purchase-service-new.php:28
+msgid "Unlimited days"
+msgstr ""
+
+#: purchase-service-new.php:32
+msgid "Features options are not available for this price plan."
+msgstr ""
+
+#: purchase-service-new.php:34
+msgid "Features options"
+msgstr ""
+
+#: purchase-service-new.php:44
+msgid "Get Started"
+msgstr ""
+
+#: purchase-service-new.php:56
+msgid "Got questions about our pricing? Call us at"
+msgstr ""
+
+#: searchform.php:15 searchform.php:17 searchform.php:21
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: sidebar-dashboard.php:26
+msgid "Welcome"
+msgstr ""
+
+#: sidebar-dashboard.php:30
+msgid ""
+"Manage your services or edit your profile from your personalized dashboard."
+msgstr ""
+
+#: sidebar-dashboard.php:35 sidebar-dashboard.php:136
+msgid "Edit profile"
+msgstr ""
+
+#: sidebar-dashboard.php:40
+msgid "Add a service"
+msgstr ""
+
+#: sidebar-dashboard.php:64
+msgid "Statistics"
+msgstr ""
+
+#: sidebar-dashboard.php:74 sidebar-single-service.php:30
+msgid "Current Tasks"
+msgstr ""
+
+#: sidebar-dashboard.php:78
+msgid "Tasks completed"
+msgstr ""
+
+#: sidebar-dashboard.php:82
+msgid "Services purchased"
+msgstr ""
+
+#: sidebar-dashboard.php:86
+msgid "Total earnings"
+msgstr ""
+
+#: sidebar-dashboard.php:94
+msgid "Reviews made"
+msgstr ""
+
+#: sidebar-dashboard.php:106
+msgid "Account Info"
+msgstr ""
+
+#: sidebar-dashboard.php:134
+msgid ""
+"No account information was provided. Please, edit your profile to add more "
+"info."
+msgstr ""
+
+#: sidebar-single-service.php:24
+msgid "Offered by %s"
+msgstr ""
+
+#: sidebar-single-service.php:43
+msgid "See all %s's services"
+msgstr ""
+
+#: single-service.php:54
+msgid "Delivery timeframe"
+msgstr ""
+
+#: single-service.php:66 single-service.php:68
+msgid "Views"
+msgstr ""
+
+#: single-service.php:94 single.php:61
+msgid "Share This"
+msgstr ""
+
+#: single-service.php:125
+msgid "Comments"
+msgstr ""
+
+#: single-service.php:137
+msgid "One review on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s reviews on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: slider.php:12
+msgid "of"
+msgstr ""
+
+#: task-summary.php:12
+msgid "Your task has been sent."
+msgstr ""
+
+#: task-summary.php:15
+msgid ""
+"Congratulations on your purchase. Here are some important details about your "
+"order."
+msgstr ""
+
+#: task-summary.php:17
+msgid "The seller of this item has been notified."
+msgstr ""
+
+#: task-summary.php:18
+msgid "The seller should contact you soon with payment details."
+msgstr ""
+
+#: task-summary.php:19
+msgid "You will be able to view this order on your customer dashboard."
+msgstr ""
+
+#: task-summary.php:57
+msgid "What would you like to do now?"
+msgstr ""
+
+#: task-summary.php:60
+msgid "Create new Task"
+msgstr ""
+
+#: task-summary.php:61
+msgid "Go to the service"
+msgstr ""
+
+#: task-summary.php:62
+msgid "Go to my dashboard"
+msgstr ""
+
+#: task-summary.php:63
+msgid "Go to the seller page"
+msgstr ""
+
+#: task-summary.php:64
+msgid "Go to the home page"
+msgstr ""
+
+#: theme-framework/admin/class-html-term-description.php:170
+#: theme-framework/admin/class-html-term-description.php:195
+msgid ""
+"The description is not prominent by default, however some themes may show it."
+msgstr ""
+
+#. #-#-#-#-#  taskerr.pot (Taskerr 1.3.1)  #-#-#-#-#
+#. Template Name of the plugin/theme
+#: theme-framework/includes/views-login.php:78
+#: theme-framework/templates/form-login.php:20 top-bar.php:77 top-bar.php:79
+msgid "Login"
+msgstr ""
+
+#: theme-framework/includes/views-login.php:132
+msgid "<strong>ERROR</strong>: The username field is empty."
+msgstr ""
+
+#: theme-framework/includes/views-login.php:136
+msgid "<strong>ERROR</strong>: The password field is empty."
+msgstr ""
+
+#: theme-framework/includes/views-login.php:176
+msgid ""
+"Cookies are blocked or not supported by your browser. You must enable "
+"cookies to continue."
+msgstr ""
+
+#: theme-framework/includes/views-login.php:180
+msgid "You are now logged out."
+msgstr ""
+
+#: theme-framework/includes/views-login.php:183
+msgid "User registration is currently not allowed."
+msgstr ""
+
+#: theme-framework/includes/views-login.php:186
+msgid "Check your email for the confirmation link."
+msgstr ""
+
+#: theme-framework/includes/views-login.php:189
+msgid "Check your email for your new password."
+msgstr ""
+
+#: theme-framework/includes/views-login.php:192
+msgid "Registration complete. Please check your e-mail."
+msgstr ""
+
+#: theme-framework/includes/views-login.php:195
+msgid "Your password has been reset. Please login."
+msgstr ""
+
+#. #-#-#-#-#  taskerr.pot (Taskerr 1.3.1)  #-#-#-#-#
+#. Template Name of the plugin/theme
+#: theme-framework/includes/views-login.php:228
+msgid "Password Recovery"
+msgstr ""
+
+#: theme-framework/includes/views-login.php:261
+msgid "Sorry, that key does not appear to be valid. Please try again."
+msgstr ""
+
+#: theme-framework/includes/views-login.php:280
+msgid "<strong>ERROR</strong>: Enter a username or e-mail address."
+msgstr ""
+
+#: theme-framework/includes/views-login.php:284
+msgid ""
+"<strong>ERROR</strong>: There is no user registered with that email address."
+msgstr ""
+
+#: theme-framework/includes/views-login.php:298
+msgid "<strong>ERROR</strong>: Invalid username or e-mail."
+msgstr ""
+
+#: theme-framework/includes/views-login.php:312
+msgid "Password reset is not allowed for this user"
+msgstr ""
+
+#: theme-framework/includes/views-login.php:330
+msgid "Someone requested that the password be reset for the following account:"
+msgstr ""
+
+#: theme-framework/includes/views-login.php:332
+msgid "Username: %s"
+msgstr ""
+
+#: theme-framework/includes/views-login.php:333
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr ""
+
+#: theme-framework/includes/views-login.php:334
+msgid "To reset your password, visit the following address:"
+msgstr ""
+
+#: theme-framework/includes/views-login.php:349
+msgid "[%s] Password Reset"
+msgstr ""
+
+#: theme-framework/includes/views-login.php:355
+msgid "The e-mail could not be sent."
+msgstr ""
+
+#: theme-framework/includes/views-login.php:355
+msgid "Possible reason: your host may have disabled the mail() function..."
+msgstr ""
+
+#. #-#-#-#-#  taskerr.pot (Taskerr 1.3.1)  #-#-#-#-#
+#. Template Name of the plugin/theme
+#: theme-framework/includes/views-login.php:375
+msgid "Password Reset"
+msgstr ""
+
+#: theme-framework/includes/views-login.php:417
+msgid "The passwords do not match."
+msgstr ""
+
+#: theme-framework/includes/views-login.php:546
+msgid "<strong>ERROR</strong>: Please enter a username."
+msgstr ""
+
+#: theme-framework/includes/views-login.php:548
+msgid ""
+"<strong>ERROR</strong>: This username is invalid because it uses illegal "
+"characters. Please enter a valid username."
+msgstr ""
+
+#: theme-framework/includes/views-login.php:551
+msgid ""
+"<strong>ERROR</strong>: This username is already registered, please choose "
+"another one."
+msgstr ""
+
+#: theme-framework/includes/views-login.php:556
+msgid "<strong>ERROR</strong>: Please type your e-mail address."
+msgstr ""
+
+#: theme-framework/includes/views-login.php:558
+msgid "<strong>ERROR</strong>: The email address isn&#8217;t correct."
+msgstr ""
+
+#: theme-framework/includes/views-login.php:561
+msgid ""
+"<strong>ERROR</strong>: This email is already registered, please choose "
+"another one."
+msgstr ""
+
+#: theme-framework/includes/views-login.php:570
+msgid "<strong>ERROR</strong>: Please enter a password."
+msgstr ""
+
+#: theme-framework/includes/views-login.php:572
+msgid "<strong>ERROR</strong>: Please enter the password twice."
+msgstr ""
+
+#: theme-framework/includes/views-login.php:574
+msgid "<strong>ERROR</strong>: The passwords do not match."
+msgstr ""
+
+#: theme-framework/includes/views-login.php:592
+msgid ""
+"<strong>ERROR</strong>: Couldn&#39;t register you... please contact the <a "
+"href=\"mailto:%s\">webmaster</a> !"
+msgstr ""
+
+#: theme-framework/includes/views-login.php:680
+msgid "The default WordPress login page is still accessible."
+msgstr ""
+
+#: theme-framework/includes/views-login.php:681
+msgid ""
+"After you ensure that permalinks on your site are working correctly and you "
+"are not using any \"maintenance mode\" plugins, please disable it in your <a "
+"href=\"%s\">theme settings</a>."
+msgstr ""
+
+#: theme-framework/js/localization.php:12
+msgid "image {current} of {total}"
+msgstr ""
+
+#: theme-framework/js/localization.php:13
+msgid "previous"
+msgstr ""
+
+#: theme-framework/js/localization.php:14
+msgid "next"
+msgstr ""
+
+#: theme-framework/js/localization.php:15
+msgid "close"
+msgstr ""
+
+#: theme-framework/js/localization.php:16
+msgid "This content failed to load."
+msgstr ""
+
+#: theme-framework/js/localization.php:17
+msgid "This image failed to load."
+msgstr ""
+
+#: theme-framework/js/localization.php:18
+msgid "start slideshow"
+msgstr ""
+
+#: theme-framework/js/localization.php:19
+msgid "stop slideshow"
+msgstr ""
+
+#: theme-framework/kernel/breadcrumb-trail.php:178
+msgid "Browse:"
+msgstr ""
+
+#: theme-framework/kernel/breadcrumb-trail.php:180
+msgid "Search results for \"%s\""
+msgstr ""
+
+#: theme-framework/kernel/breadcrumb-trail.php:181
+msgid "404 Not Found"
+msgstr ""
+
+#: theme-framework/kernel/breadcrumb-trail.php:182
+msgid "Page %d"
+msgstr ""
+
+#: theme-framework/kernel/breadcrumb-trail.php:184
+msgid "g:i a"
+msgstr ""
+
+#: theme-framework/kernel/breadcrumb-trail.php:185
+msgid "Minute %d"
+msgstr ""
+
+#: theme-framework/kernel/breadcrumb-trail.php:186
+msgid "g a"
+msgstr ""
+
+#: theme-framework/kernel/breadcrumb-trail.php:187
+msgid "d"
+msgstr ""
+
+#: theme-framework/kernel/breadcrumb-trail.php:188
+msgid "Week %d"
+msgstr ""
+
+#: theme-framework/kernel/breadcrumb-trail.php:189
+msgid "F"
+msgstr ""
+
+#: theme-framework/kernel/breadcrumb-trail.php:190
+#: theme-framework/kernel/breadcrumb-trail.php:1034
+msgid "Y"
+msgstr ""
+
+#: theme-framework/kernel/breadcrumb-trail.php:1038
+msgid "F Y"
+msgstr ""
+
+#: theme-framework/kernel/breadcrumb-trail.php:1042
+msgid "F j, Y"
+msgstr ""
+
+#: theme-framework/kernel/breadcrumb-trail.php:1162
+msgid "Split"
+msgstr ""
+
+#: theme-framework/kernel/breadcrumb-trail.php:1166
+msgid "Merge"
+msgstr ""
+
+#: theme-framework/kernel/functions.php:73
+msgid "Page %s"
+msgstr ""
+
+#: theme-framework/kernel/mail-from.php:287
+msgid ""
+"Email provider of \"%1$s\" address do not allow to use their email addresses "
+"by other servers. The \"%2$s\" address will be used to send out emails."
+msgstr ""
+
+#: theme-framework/kernel/social.php:75
+msgid "(i.e. %1$s)"
+msgstr ""
+
+#: theme-framework/kernel/social.php:112
+msgid "LinkedIn"
+msgstr ""
+
+#: theme-framework/kernel/social.php:123
+msgid "YouTube"
+msgstr ""
+
+#: theme-framework/kernel/social.php:128
+msgid "Instagram"
+msgstr ""
+
+#: theme-framework/kernel/social.php:132
+msgid "Pinterest"
+msgstr ""
+
+#: theme-framework/kernel/social.php:136
+msgid "Github"
+msgstr ""
+
+#: theme-framework/kernel/social.php:140
+msgid "Path"
+msgstr ""
+
+#: theme-framework/kernel/social.php:144
+msgid "Vimeo"
+msgstr ""
+
+#: theme-framework/kernel/social.php:148
+msgid "Flickr"
+msgstr ""
+
+#: theme-framework/kernel/social.php:152
+msgid "Picasa"
+msgstr ""
+
+#: theme-framework/kernel/social.php:158
+msgid "Foursquare"
+msgstr ""
+
+#: theme-framework/kernel/social.php:162
+msgid "WordPress"
+msgstr ""
+
+#. #-#-#-#-#  taskerr.pot (Taskerr 1.3.1)  #-#-#-#-#
+#. Template Name of the plugin/theme
+#: theme-framework/kernel/view-edit-profile.php:14
+msgid "Edit Profile"
+msgstr ""
+
+#: theme-framework/kernel/view-edit-profile.php:41
+msgid "Your profile has been updated."
+msgstr ""
+
+#: theme-framework/templates/form-login.php:27
+msgid "Remember me"
+msgstr ""
+
+#: theme-framework/templates/form-login.php:31
+msgid "Lost your password?"
+msgstr ""
+
+#: theme-framework/templates/form-password-recovery.php:3
+msgid ""
+"Please enter your username or email address. A new password will be emailed "
+"to you."
+msgstr ""
+
+#: theme-framework/templates/form-password-recovery.php:9
+msgid "Username or Email:"
+msgstr ""
+
+#: top-bar.php:25 top-bar.php:27
+msgid "RSS"
+msgstr ""
+
+#: top-bar.php:34
+msgid "Menu"
+msgstr ""
+
+#: top-bar.php:56 top-bar.php:58
+msgid "Your Profile"
+msgstr ""
+
+#: top-bar.php:68 top-bar.php:70
+msgid "Logout"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://www.appthemes.com/themes/taskerr/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "A Micro-Job Directory Theme for WordPress"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "AppThemes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://wwww.appthemes.com"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Dashboard Favorites Loop"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Dashboard Notifications Loop"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Dashboard Purchased Loop"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Dashboard Reviews Loop"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Dashboard Services Loop"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Dashboard Tasks Loop"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Full Width"
+msgstr ""

@@ -1,0 +1,13 @@
+Modified		changelog.txt
+Modified		form-edit-profile.php
+Modified		framework
+Modified		functions.php
+Modified		includes/admin/settings.php
+Modified		includes/payments
+Modified		includes/slider
+Modified		includes/social.php
+Modified		includes/widgets
+Modified		includes/widgets.php
+Modified		style.css
+Modified		taskerr.pot
+Modified		theme-framework

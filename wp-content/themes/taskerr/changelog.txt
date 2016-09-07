@@ -1,0 +1,63 @@
+1.3.1 - 2016-01-06
+fixed:
+ 	- Protocols in the social and AppThemes links
+ 	- Added User Nickname on edit profile form, fixed WordPress 4.4 incompatibility
+ 	- Slider styles url
+ 	- User password changes without request from the user
+changes:
+	- Re-order Taskerr menu items
+
+1.3 - 12/10/2015
+fixed:
+ 	- Lost user password after edit profile
+	- User Website info on the dashboard and author's page
+	- Some string translation
+	- Service price format
+	- Issue with 0 plans price on summary step.
+new:
+	- Introduced transaction templates.
+	- Added Addons MP submodule
+changes:
+	- Deprecate use of APP_View_Page::_get_id()
+	- Added 'app-require-updater' theme support
+	- Change widgets names to 'Theme Name Widget Title'
+	- WordPress 4.4 compatibility
+
+1.2 - 08/26/2015
+fixed:
+ 	- Duplicate field showing on registration form after WP 4.3
+changes:
+	- There's now only one password field in registration, profile and reset password pages (WP 4.3 or later)
+
+1.1 - 10/14/2014
+fixes:
+	- Allow sorting/filering dropdowns with disabled permalinks
+	- Set any static page as front page
+	- Use 'esc_attr_e()'
+	- Can not rename add service page
+	- Added "Delete Selected" string to translations file
+	- Uploaded images don't show up
+	- Free services not expire. All existing free services will get default duration 30 days and expire if they already outdated. Use theme settings to change default duration
+	- Total comments count shows comments + reviews count.
+	- Fixed reviews permalinks
+	- Fixed widget title on single service page
+	- Fixed php error, caused by incorrect declaration classes order
+	- Fixed HTML error in Recent Posts widget
+	- Prevent to create orders for free services
+changes:
+	- "Buy it" button now visible for non-logged-in users and redirects to login page
+	- Allow to automatically activate payment order by manually publishing services
+new:
+	- Added Renew Service procedure
+	- Added Delete Service procedure
+	- Prepare theme for escrow payments feature
+	- Added search index. Enable search by categories and tags.
+	- Notifications on the header got deep links to Notifications dashboard
+	- Added Visual editor for Service content, Task Instructions and Review content. Only html editor is available (not TinyMCE). Use filter tr_editor_settings to enable TinyMCE or change/add other settings.
+	- Added example child theme
+	- Added email templates for renew service notifications to admin and author
+	- Added option "Duration (Free Services Only)"
+	- Added filter options on Dashboard: "Live", "Awaiting Moderation", "Pending Payment", "Expired"
+	- Added service statuses on admin services page: "Expired", "Deleted"
+
+1.0 - First Release

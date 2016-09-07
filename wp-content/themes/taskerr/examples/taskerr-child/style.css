@@ -1,0 +1,19 @@
+/*
+Theme Name:     Taskerr Example Child Theme
+Theme URI:      http://appthemes.com/
+Description:    Example child theme for the Taskerr theme
+Author:         AppThemes
+Author URI:     http://appthemes.com/
+Template:       taskerr
+Version:        1.0.0
+Text Domain:    taskerr-child
+*/
+
+/* import global theme styles */
+@import url("../taskerr/style.css");
+
+/* import default color scheme */
+@import url("../taskerr/styles/blue.css");
+
+/* =Theme customization starts here
+-------------------------------------------------------------- */

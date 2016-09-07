@@ -1,0 +1,620 @@
+/*  ============= [ Red Stylesheet Colors: Table of Contents ] ============== */
+
+/*
+ * Layout, General
+ * Header
+ * Banner
+ * Single
+ * Content Loop
+ * Tabs
+ * Comments
+ * Pricing Plans
+ * Author
+ * Dashboards
+ * Pagination
+ * Buttons
+ * Footer
+ * Widgets
+ */
+
+/* =========== [ LAYOUT, GENERAL ] =========== */
+
+body {
+    color: #85807f;
+}
+
+a {
+    color: #eb6650;
+}
+
+a:hover,
+a:focus {
+    color: #df5a45;
+}
+
+h1,
+h1 a {
+    color: #322e2d;
+}
+
+h1 a:hover {
+    color: #4f4c4c;
+}
+
+label {
+    color: #4f4c4c;
+}
+
+input[type="checkbox"],
+input[type="radio"],
+fieldset .frame {
+    border: 1px solid #ccc;
+}
+
+hr {
+    border: solid #f7f7f7;
+}
+
+button {
+    background-color: #eb6650;
+    border-color: #df5a45;
+}
+
+button:hover,
+button:focus,
+.button:hover,
+.button:focus,
+input[type="submit"]:hover,
+input[type="submit"]:focus {
+    background-color: #df5a45;
+}
+
+.genericon-star.good-star{
+    color: #eb6650;
+}
+.genericon-star.bad-star{
+    color: #e0dcdc;
+}
+
+.dropdown.button, button.dropdown {
+    border: 1px solid #d4d2d2;
+}
+
+.white-con,
+.tabs dd,
+#sidebar .widget>ul,
+#sidebar .widget>div,
+#sidebar .widget>iframe,
+.banner.type-2 a img,
+ul.pagination li a,
+ul.pagination li span,
+.user-posts .commentlist,
+.dropdown.button, button.dropdown {
+    background: #fff;
+    box-shadow: 1px 1px 3px rgba(209,207,207,.75);
+}
+
+.featured-label {
+    background-color: #1a959b;
+    border-bottom: 3px solid #137c81;
+    color: #fff;
+}
+
+span.required {
+    color: #f31e1e;
+}
+
+/* =========== [ HEADER ] =========== */
+
+#header {
+    background: #e9604a;
+}
+
+.site-logo {
+    border-right: 1px solid #f7705a;
+}
+
+.top-bar ul li > a,
+.top-bar.expanded .toggle-topbar a {
+    color: #ff9888;
+}
+
+.top-bar a:hover {
+    color: #fff;
+}
+
+.top-bar .top-bar-section .dropdown li {
+    color: #3e3b3b;
+    background: #eb725f;
+}
+
+.top-bar .top-bar-section li.dropdown-label,
+.top-bar .top-bar-section .dropdown li:hover {
+    background: #ff9888;
+}
+
+.top-bar .top-bar-section .dropdown li label {
+    color: #fff;
+}
+
+.top-bar-section .divider, .top-bar-section [role="separator"] {
+    border-top: solid 1px #ff9888;
+}
+
+.top-bar.expanded .toggle-topbar a::after {
+    box-shadow: 0 10px 0 1px #ff9888,0 16px 0 1px #ff9888,0 22px 0 1px #ff9888;
+}
+
+
+#top-bar-1 {
+    border-bottom: 1px solid #f7705a;
+}
+
+#top-bar-1 a,
+#top-bar-1.expanded .toggle-topbar a {
+    color: #ff9888;
+}
+
+#top-bar-1 .toggle-topbar a,
+#top-bar-1 .dropdown a,
+#top-bar-1 a:hover {
+    color: #fff;
+}
+
+#top-bar-2 .search-bar form {
+    border: 1px solid #dc5944;
+    background-color: #df5a45;
+    box-shadow: 1px 1px 1px rgba(160,68,68,0.75);
+}
+
+.searchform .genericon,
+.search-bar input,
+.search-bar button {
+    color: #fff;
+}
+
+.search-bar input::-moz-placeholder {
+    color: #fff;
+}
+
+.search-bar input::-webkit-input-placeholder {
+    color: #fff;
+}
+
+#top-bar-2.expanded .top-bar-section .left li:hover {
+    background-color: #df5a45;
+}
+
+/* =========== [ BANNER ] =========== */
+
+.banner a img {
+    background-color: #fff;
+    box-shadow: 0 1px 4px rgba(160,68,68,0.75);
+}
+
+/* =========== [ SINGLE ] =========== */
+
+.single-content .stat {
+    color: #4f4c4c;
+}
+
+.single-content .post-bar {
+    background: #f7f7f7;
+}
+
+.single-content .post-bar .post-bar-item {
+    border-left: 1px solid #e3e5e8;
+}
+
+.single-content .post-bar .post-bar-item,
+.single-content .post-bar .post-bar-item a {
+    color: #4f4c4c;
+}
+
+.post-info .desc-label {
+    color: #4f4c4c;
+}
+
+.terms-bar {
+    border-bottom: 3px solid #dfdbdb;
+}
+
+/* =========== [ CONTENT-LOOP ] =========== */
+
+article .info p {
+    color: #85807f;
+}
+
+.loop-content .ft-bar {
+    background: #f7f7f7;
+}
+
+.loop-content .ft-bar .post-meta {
+    color: #4f4c4c;
+    border-right: 1px solid #e3e5e8;
+}
+
+.loop-content .ft-bar .post-meta span,
+.loop-content .ft-bar .post-meta .genericon,
+.loop-content .ft-bar .post-meta a {
+    color: #999191;
+}
+
+.loop-content .ft-bar .listing-sharethis {
+    border-top: 1px solid #e3e5e8;
+}
+
+.loop-content .btn-bar .price {
+    background: #eb6650;
+    border-bottom: 3px solid #df5a45;
+    color: #fff;
+}
+
+.loop-content .btn-bar .price.grey {
+    background: #5b5656;
+    border-bottom: 3px solid #4a4444;
+}
+
+.loop-content .btn-bar .fave-button {
+    background: #fff;
+    border-color: #e6e3e3;
+    color: #4f4c4c;
+}
+
+.loop-content .btn-bar .fave-button:hover {
+    background: #e6e3e3;
+}
+
+/* =========== [ TABS ] =========== */
+
+.tabs dd a {
+    color: #4f4c4c;
+    background-color: #f7f7f7;
+}
+
+.tabs dd a:hover,
+.tabs dd.active a {
+    color: #eb6650;
+    background-color: #fff;
+    box-shadow: 1px 1px 3px rgba(209,207,207,.75);
+}
+
+/* =========== [ COMMENTS ] =========== */
+
+.commentlist .even>.comment-body {
+    background-color: #f7f7f7;
+}
+
+.comments-title {
+    color: #4f4c4c;
+}
+
+.comment-title,
+.comment-title .review-meta,
+.comment-content .reply a,
+.feedback-section nav a {
+    color: #85807f;
+}
+
+#reply-title {
+    color: #4f4c4c;
+}
+
+/* =========== [ PRICING PLANS ] =========== */
+
+.pricing .top-info p {
+    color: #4f4c4c;
+}
+
+.pricing .top-info h2 {
+    color: #eb6650;
+}
+
+.pricing .plans .holder {
+    background: #fff;
+    border: 1px solid #d4d2d2;
+    background-color: #fff;
+    box-shadow: 0 0 5px rgba(201,205,208,.18);
+}
+
+.pricing .plans .type {
+    color: #85807f;
+}
+
+.pricing .plans .price {
+    color: #3e3b3b;
+}
+
+.pricing .plans .period {
+    color: #eb6650;
+}
+
+.pricing .plans h4 {
+    color: #322e2d;
+}
+
+.pricing .plans label {
+    color: #85807f;
+}
+
+.pricing .plans .text {
+    color: #4f4c4c;
+}
+
+.pricing .help {
+    color: #85807f;
+    border-bottom: 1px solid #ccc;
+}
+
+.pricing .help a {
+    color: #42b373;
+}
+
+/* =========== [ AUTHOR ] =========== */
+
+.user-header-meta,
+.user-social-links a {
+    color: #4f4c4c;
+}
+
+/* =========== [ DASHBOARDS ] =========== */
+
+.service-section .service-description p {
+    color: #85807f;
+}
+
+.stat-line {
+    border-top: 1px solid #f0f1f2;
+    border-bottom: 1px solid #f0f1f2;
+}
+
+.stat-line .separator {
+    border-left: 1px solid #f0f1f2;
+}
+.stat-line p {
+    color: #322e2d;
+}
+
+.stat-line a,
+.purchased-date span {
+    color: #eb6650;
+}
+
+.task-header h1 {
+    color: #4f4c4c;
+}
+
+.task-header .service-title {
+    color: #3e3b3b;
+}
+
+.task-header .service-title a {
+    color: #3e3b3b;
+}
+
+.buyer-message h1,
+.buyer-review .label-task {
+    color: #3e3b3b;
+}
+
+.buyer-review {
+    border-top: 1px solid #f0f1f2;
+}
+
+.form-field .description {
+    color: #85807f;
+}
+
+.highlight-blue,
+.highlight-blue a {
+    color: #eb6650;
+}
+
+/* =========== [ PAGINATION ] =========== */
+
+ul.pagination li a,
+ul.pagination li span {
+    border: 1px solid #d4d2d2;
+}
+
+ul.pagination span.current,
+ul.pagination li.current a,
+ul.pagination li.current a:hover,
+ul.pagination li a:hover {
+    background: #eb6650;
+    color: #fff;
+}
+
+ul.pagination .unavailable span {
+    color: #85807f;
+}
+
+ul.pagination .unavailable a,
+ul.pagination .unavailable span {
+    background: #f0f1f2;
+}
+
+/* =========== [ BUTTONS ] =========== */
+
+.button,
+input[type="submit"] {
+    background: #e9604a;
+    border-bottom: 3px solid #df5a45;
+    color: #fff;
+}
+
+.button.success {
+    background: #57a45d;
+    border-color: #488c4e;
+}
+
+.button.success:hover,
+.button.success:focus {
+    background-color: #488c4e;
+}
+
+.button.alert {
+    background: #1a959b;
+    border-color: #137c81;
+}
+
+.button.alert:hover,
+.button.alert:focus {
+    background-color: #137c81;
+}
+
+.button.secondary {
+    background: #5b5656;
+    border-color: #4a4444;
+    color: #fff;
+}
+
+/* =========== [ FOOTER ] =========== */
+
+#footer {
+    background-color: #322f2f;
+    color: #7d7878;
+}
+
+#footer h2 {
+    color: #c3bfbf;
+}
+
+#footer .widgets-footer {
+    border-bottom: 1px solid #4c4848;
+}
+
+#footer .widgets-footer p span {
+    color: #c3bfbf;
+}
+
+#footer .copy {
+    color: #7d7878;
+}
+
+#footer .copy a {
+    color: #7d7878;
+}
+
+#footer form {
+    -webkit-box-shadow: 1px 1px 3px #2B2B2B;
+    -moz-box-shadow: 1px 1px 3px #2B2B2B;
+    box-shadow: 1px 1px 3px #2B2B2B;
+}
+
+#footer input {
+    background-color: #565b5b;
+    color: #fff;
+}
+
+/* ============ [ WIDGETS ] ============ */
+
+.widget ul li {
+    border-top: 1px solid #e6e3e3;
+}
+
+.widgets-footer .widget ul li {
+    border-top: 1px solid #4c4848;
+}
+
+.widget a {
+    color: #85807f;
+}
+
+.top-widget,
+.singular-headline {
+    background: #fff;
+    border-bottom: 3px solid #dfdbdb;
+}
+
+/* Home Greetings text */
+
+.home-head {
+    color: #85807f;
+}
+
+.home-head h2 {
+    color: #e25842;
+}
+
+.widget.widget-recent-posts h2 a {
+    color: #322e2d;
+}
+
+.widget.widget-recent-posts .recent-post-date {
+    color: #322e2d;
+}
+
+.widget.widget-recent-posts .recent-post-date a {
+    color: #eb6650;
+}
+
+.static-widget header {
+    background: #5b5656;
+    border-bottom: 3px solid #4a4444;
+}
+
+.static-widget h1 {
+    color: #fff;
+}
+
+.static-widget ul li .right {
+    color: #85807f;
+}
+
+.widget-author-info header {
+    background: #eb6650;
+    border-bottom: 3px solid #df5a45;
+}
+
+.widget-author-info .author-avatar {
+    border: 2px solid #fff;
+	background-color: #fff;
+}
+
+.widget-author-info .author-link a {
+    color: #eb6650;
+}
+
+.widget-author-recent-posts li:nth-of-type(even) {
+    background: #f7f7f7;
+}
+
+.static-widget.widget-dashboard-links ul li {
+    border-top: 1px solid #e6e3e3;
+}
+
+.widget-dashboard-links ul li a {
+    color: #85807f;
+}
+
+.widget-dashboard-links ul li a:hover,
+.widget-dashboard-links ul .current_page_item>a {
+    color: #eb6650;
+}
+
+.widget-account-bage h3 {
+    color: #4f4c4c;
+}
+
+.widgets-footer .widget_twitter .time-meta a {
+    color: #c3bfbf;
+}
+
+/* Home category list menu */
+
+.cat-down.button {
+    background-color: #3e3b3b;
+}
+
+.cat-down:hover {
+    background-color: #4f4c4c;
+}
+
+.top-widget .widget-taxonomy-list ul li a {
+    color: #3e3b3b;
+}
+
+.breadcrumbs {
+    background-color: #fff;
+}
